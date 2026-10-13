@@ -348,6 +348,12 @@
         if (p && typeof d[id].lat === "number" && typeof d[id].lng === "number") { p.lat = d[id].lat; p.lng = d[id].lng; }
       });
       if ($("bag").hidden && (view.city === city || view.city === WORLD)) refresh();
+      // A place opened before its info arrived: move its popup to the corrected spot and add the summary.
+      var q = view.sel && d[view.sel] && BYID[view.sel];
+      if (q && popup && hasPin(q)) {
+        popup.setLngLat([q.lng, q.lat]).setHTML(popupHtml(q));
+        if (map) map.easeTo({ center: [q.lng, q.lat], duration: 500 });
+      }
     });
   }
   // ---------- Follow whole lists in Google Maps ----------
