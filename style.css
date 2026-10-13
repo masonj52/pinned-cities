@@ -171,3 +171,8 @@ img { max-width: 100%; }
 .maplibregl-ctrl.maplibregl-ctrl-attrib { background: var(--surface); color: var(--muted); }
 .maplibregl-ctrl-attrib a { color: var(--muted); }
 .maplibregl-ctrl-attrib-button { filter: var(--icon-filter); background-color: var(--surface); }
+
+/* List emoji, matching the map pins */
+.emo { font-style: normal; letter-spacing: 0; margin-right: 6px; }
+.chip .emo { margin-right: -2px; }
+.tag .emo { margin-right: 5px; }

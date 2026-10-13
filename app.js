@@ -1,7 +1,8 @@
 /* Pinned Cities: filters, map, list and basket. Everything runs in the visitor's browser. */
 (function () {
   "use strict";
-  var DATA = { places: [], updated: "" }, BYID = {};
+  var DATA = { places: [], updated: "" }, BYID = {}, ICONS = {};
+  function iconFor(cat) { return ICONS[cat] || "📍"; }
   var $ = function (id) { return document.getElementById(id); };
   var view = { city: null, cat: "All", q: "", sel: null };
   var NO_CITY = "Other places";
@@ -50,6 +51,11 @@
     map.addControl(new maplibregl.NavigationControl({ showCompass: false }), "top-left");
     map.addControl(new maplibregl.ScaleControl({ unit: "metric", maxWidth: 110 }), "bottom-left");
     map.on("style.load", addPins);
+    map.on("styleimagemissing", function (e) {
+      if (e.id.indexOf("pin|") !== 0 || map.hasImage(e.id)) return;
+      var parts = e.id.split("|");
+      map.addImage(e.id, makeBadge(parts[1], parts[2] === "on"), { pixelRatio: 2 });
+    });
     map.on("click", "pins", function (e) { if (e.features && e.features[0]) select(e.features[0].properties.id, false); });
     map.on("mouseenter", "pins", function () { map.getCanvas().style.cursor = "pointer"; });
     map.on("mouseleave", "pins", function () { map.getCanvas().style.cursor = ""; });
@@ -57,22 +63,39 @@
   }
   function geo() {
     return { type: "FeatureCollection", features: shownNow.filter(hasPin).map(function (p) {
-      return { type: "Feature", properties: { id: p.id, sel: p.id === view.sel ? 1 : 0 }, geometry: { type: "Point", coordinates: [p.lng, p.lat] } };
+      var sel = p.id === view.sel;
+      return { type: "Feature", properties: { id: p.id, sel: sel ? 1 : 0, img: "pin|" + iconFor(p.category) + (sel ? "|on" : "") }, geometry: { type: "Point", coordinates: [p.lng, p.lat] } };
     }) };
+  }
+  // Each pin is a round badge holding its list's emoji, drawn once per emoji and reused.
+  function makeBadge(emoji, on) {
+    var S = 72, c = document.createElement("canvas"); c.width = c.height = S;
+    var g = c.getContext("2d");
+    g.shadowColor = "rgba(0,0,0,.28)"; g.shadowBlur = 6; g.shadowOffsetY = 2;
+    g.beginPath(); g.arc(S / 2, S / 2, 28, 0, Math.PI * 2);
+    g.fillStyle = cssVar("--surface") || "#fff"; g.fill();
+    g.shadowColor = "transparent";
+    g.lineWidth = on ? 6 : 4; g.strokeStyle = on ? cssVar("--ink") : cssVar("--accent"); g.stroke();
+    g.font = '32px "Apple Color Emoji","Segoe UI Emoji","Noto Color Emoji",sans-serif';
+    g.textAlign = "center"; g.textBaseline = "middle"; g.fillStyle = "#000";
+    g.fillText(emoji, S / 2, S / 2 + 2);
+    return { width: S, height: S, data: new Uint8Array(g.getImageData(0, 0, S, S).data.buffer) };
   }
   function addPins() {
     if (map.getSource("places")) { mapReady = true; return; }
     map.addSource("places", { type: "geojson", data: geo() });
-    map.addLayer({ id: "pins", type: "circle", source: "places", layout: { "circle-sort-key": ["get", "sel"] }, paint: {
-      "circle-radius": ["case", ["==", ["get", "sel"], 1], 9, 6],
-      "circle-color": ["case", ["==", ["get", "sel"], 1], cssVar("--ink"), cssVar("--accent")],
-      "circle-stroke-color": cssVar("--surface"), "circle-stroke-width": 2
+    var sel = ["==", ["get", "sel"], 1];
+    map.addLayer({ id: "pins", type: "symbol", source: "places", layout: {
+      "icon-image": ["get", "img"],
+      "icon-allow-overlap": true, "icon-ignore-placement": true,
+      "symbol-sort-key": ["get", "sel"],
+      "icon-size": ["interpolate", ["linear"], ["zoom"], 9, ["case", sel, 0.85, 0.65], 12, ["case", sel, 1, 0.8], 15, ["case", sel, 1.2, 1]]
     } });
     mapReady = true;
   }
   function refreshPins() { if (map && mapReady && map.getSource("places")) map.getSource("places").setData(geo()); }
   function popupHtml(p) {
-    return '<div class="pop"><span class="k">' + esc(p.category || "") + "</span><h4>" + esc(p.title) + "</h4>" + (p.note ? "<p>" + esc(p.note) + "</p>" : "") +
+    return '<div class="pop"><span class="k">' + iconFor(p.category) + " " + esc(p.category || "") + "</span><h4>" + esc(p.title) + "</h4>" + (p.note ? "<p>" + esc(p.note) + "</p>" : "") +
       '<a class="maps" href="' + esc(mapsLink(p)) + '" target="_blank" rel="noopener">Open in Google Maps ↗</a>' + bagBtn(p.id) + "</div>";
   }
   function updatePins(shown) {
@@ -147,7 +170,7 @@
     h += "</div></div>";
     h += '<div><div class="rail-label"><span>Category</span></div><div class="rail" role="group" aria-label="Category">';
     h += '<button type="button" class="chip" data-cat="All" aria-pressed="' + (view.cat === "All") + '">All<span class="n">' + inCity.length + "</span></button>";
-    cats.forEach(function (c) { h += '<button type="button" class="chip" data-cat="' + esc(c) + '" aria-pressed="' + (c === view.cat) + '">' + esc(c || "Uncategorized") + '<span class="n">' + byCat[c] + "</span></button>"; });
+    cats.forEach(function (c) { h += '<button type="button" class="chip" data-cat="' + esc(c) + '" aria-pressed="' + (c === view.cat) + '">' + '<span class="emo" aria-hidden="true">' + iconFor(c) + "</span>" + esc(c || "Uncategorized") + '<span class="n">' + byCat[c] + "</span></button>"; });
     h += "</div></div>";
     h += '<input class="search" id="q" type="search" placeholder="Search ' + esc(view.city) + '" value="' + esc(view.q) + '" aria-label="Search places">';
     $("head").innerHTML = h;
@@ -159,7 +182,7 @@
         var pin = hasPin(p);
         l += '<article class="place' + (p.id === view.sel ? " on" : "") + '" data-card="' + esc(p.id) + '"><div class="place-head"><h3>' +
           (pin ? '<button type="button" class="pin-btn" data-pid="' + esc(p.id) + '" title="Show on map">' + esc(p.title) + "</button>" : esc(p.title)) +
-          "</h3>" + (p.category ? '<span class="tag">' + esc(p.category) + "</span>" : "") + "</div>";
+          "</h3>" + (p.category ? '<span class="tag"><span class="emo" aria-hidden="true">' + iconFor(p.category) + "</span>" + esc(p.category) + "</span>" : "") + "</div>";
         if (p.note) l += "<p>" + esc(p.note) + "</p>";
         if (!pin) l += '<span class="nopin">No pin on the map</span>';
         l += '<div class="place-foot">' + bagBtn(p.id) + '<a class="maps" href="' + esc(mapsLink(p)) + '" target="_blank" rel="noopener">Open in Google Maps ↗</a></div></article>';
@@ -256,7 +279,7 @@
       order.forEach(function (c) {
         h += '<div class="bag-group"><h4><span>' + esc(c) + "</span><span>" + groups[c].length + "</span></h4>";
         groups[c].forEach(function (p) {
-          h += '<div class="bag-row"><span class="t">' + esc(p.title) + '<span class="c">' + esc(p.category || "") + '</span></span><a class="maps" href="' + esc(mapsLink(p)) + '" target="_blank" rel="noopener">Save ↗</a><button type="button" class="x" data-bag="' + esc(p.id) + '" aria-label="Remove ' + esc(p.title) + '">Remove</button></div>';
+          h += '<div class="bag-row"><span class="t">' + esc(p.title) + '<span class="c">' + iconFor(p.category) + " " + esc(p.category || "") + '</span></span><a class="maps" href="' + esc(mapsLink(p)) + '" target="_blank" rel="noopener">Save ↗</a><button type="button" class="x" data-bag="' + esc(p.id) + '" aria-label="Remove ' + esc(p.title) + '">Remove</button></div>';
         });
         h += "</div>";
       });
@@ -311,10 +334,12 @@
 
   // ---------- Start ----------
   initMap();
+  var icons = fetch("data/icons.json", { cache: "no-cache" }).then(function (r) { return r.ok ? r.json() : {}; }).catch(function () { return {}; });
   fetch("data/places.json", { cache: "no-cache" }).then(function (r) {
     if (!r.ok) throw new Error(r.status);
-    return r.json();
-  }).then(function (d) {
+    return Promise.all([r.json(), icons]);
+  }).then(function (both) {
+    var d = both[0]; ICONS = both[1] || {};
     DATA = d; DATA.places.forEach(function (p) { BYID[p.id] = p; });
     loadBasket(); renderViewer();
   }).catch(function () {
