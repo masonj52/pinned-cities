@@ -4,14 +4,27 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>Pinned Cities</title>
-<meta name="description" content="Saved places across 60+ cities, by list, with a street map and a basket that sends picks to Google Maps.">
+<meta name="description" content="1,788 saved places across 62 cities, by list, with a street map and a basket that sends picks to Google Maps.">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Pinned Cities">
+<meta property="og:title" content="Pinned Cities">
+<meta property="og:description" content="1,788 saved bars, clubs, food spots, shops and sights across 62 cities. Pick a city, browse the map, and save places to your Google Maps.">
+<meta property="og:url" content="https://masonj52.github.io/pinned-cities/">
+<meta property="og:image" content="https://masonj52.github.io/pinned-cities/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Pinned Cities: saved places across 62 cities">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Pinned Cities">
+<meta name="twitter:description" content="1,788 saved places across 62 cities, with a map and a basket for Google Maps.">
+<meta name="twitter:image" content="https://masonj52.github.io/pinned-cities/og.png">
 <meta name="theme-color" content="#f2f0f5" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#131019" media="(prefers-color-scheme: dark)">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='13' r='9' fill='%23a3175e'/%3E%3Cpath d='M9 18l7 12 7-12z' fill='%23a3175e'/%3E%3Ccircle cx='16' cy='13' r='3.5' fill='%23fff'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="preconnect" href="https://tiles.openfreemap.org" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&family=Figtree:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&family=Figtree:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&family=Noto+Sans+KR:wght@400;600;800&display=swap">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/maplibre-gl/4.7.1/maplibre-gl.css">
 <link rel="stylesheet" href="style.css">
 </head>
@@ -19,13 +32,15 @@
 <div id="app"><div class="wrap">
   <div id="top"></div>
   <div id="viewer" class="layout">
-    <div class="col-head" id="head"><div class="loading">Loading places…</div></div>
-    <div class="col-map"><div id="map" role="region" aria-label="Map of places"></div><p class="map-note" id="map-note"></p></div>
+    <div class="col-head" id="head"></div>
+    <div class="col-map"><div id="map" role="region" aria-label="Map"></div><p class="map-note" id="map-note"></p></div>
     <div class="col-list" id="list"></div>
   </div>
   <div id="bag" hidden></div>
 </div><div class="bagbar" id="bagbar" hidden></div></div>
+<div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/maplibre-gl/4.7.1/maplibre-gl.js"></script>
+<script src="i18n.js"></script>
 <script src="app.js"></script>
 </body>
 </html>

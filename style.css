@@ -176,3 +176,51 @@ img { max-width: 100%; }
 .emo { font-style: normal; letter-spacing: 0; margin-right: 6px; }
 .chip .emo { margin-right: -2px; }
 .tag .emo { margin-right: 5px; }
+
+/* Korean text gets a Korean face first */
+:root:lang(ko) { --font-body: "Noto Sans KR", "Figtree", system-ui, sans-serif; }
+:lang(ko) .city-name { font-family: "Noto Sans KR", var(--font-display); font-weight: 800; letter-spacing: -.03em; }
+
+/* List tools: count, map-view switch, sort */
+.list-tools { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 10px 16px; }
+.switch { display: inline-flex; align-items: center; gap: 8px; font-size: 13px; color: var(--muted); cursor: pointer; }
+.switch input { position: absolute; opacity: 0; width: 1px; height: 1px; }
+.switch .track { width: 34px; height: 20px; border-radius: 999px; background: var(--line); position: relative; transition: background .15s; flex: 0 0 auto; }
+.switch .track::after { content: ""; position: absolute; top: 2px; left: 2px; width: 16px; height: 16px; border-radius: 50%; background: var(--surface); box-shadow: 0 1px 2px rgb(0 0 0 / .25); transition: transform .15s; }
+.switch input:checked + .track { background: var(--accent); }
+.switch input:checked + .track::after { transform: translateX(14px); }
+.switch input:focus-visible + .track { outline: 2px solid var(--accent); outline-offset: 2px; }
+.sort { display: inline-flex; align-items: center; gap: 6px; font-size: 13px; color: var(--muted); }
+.sort select { border: 1px solid var(--line); background: var(--surface); border-radius: 8px; padding: 4px 8px; font-size: 13px; color: var(--ink); }
+
+/* Top picks */
+.star { color: #c98a00; }
+:root[data-theme="dark"] .star { color: #f5b301; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .star { color: #f5b301; } }
+.pick-chip .emo { color: #c98a00; }
+
+/* Share, actions in cards and popups */
+.foot-actions, .pop-actions { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
+.share-btn { border: 1px solid transparent; background: transparent; border-radius: 999px; padding: 4px 9px; font-size: 13px; font-weight: 600; color: var(--muted); }
+.share-btn:hover { color: var(--accent); border-color: var(--line); }
+.pop .bag-btn { display: inline-block; margin-top: 0; }
+.pop-actions { margin-top: 8px; }
+.pop .star { font-weight: 600; }
+.toast { position: fixed; left: 50%; transform: translateX(-50%); bottom: calc(84px + env(safe-area-inset-bottom, 0px)); z-index: 1100; background: var(--ink); color: var(--bg); border-radius: 12px; padding: 10px 16px; font-size: 14px; font-weight: 600; box-shadow: 0 6px 24px rgb(0 0 0 / .25); max-width: calc(100vw - 32px); display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+.toast-link { font: 12px var(--font-mono); padding: 4px 6px; border-radius: 6px; border: 0; width: min(420px, 80vw); }
+
+/* World view: city cards */
+.city-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 10px; }
+.city-card { text-align: left; border: 1px solid var(--line); background: var(--surface); border-radius: 14px; padding: 12px 14px; display: flex; flex-direction: column; gap: 2px; min-width: 0; }
+.city-card:hover { border-color: var(--accent); }
+.cc-name { font-family: var(--font-display); font-weight: 750; font-size: 17px; line-height: 1.2; overflow-wrap: anywhere; }
+.cc-n { font-family: var(--font-mono); font-size: 12px; color: var(--muted); }
+.cc-emo { font-size: 15px; letter-spacing: 1px; margin-top: 4px; }
+
+/* Walking order in the basket */
+.walk-total { margin: -2px 0 6px; font-size: 13px; color: var(--muted); }
+.stop { display: inline-grid; place-items: center; width: 20px; height: 20px; border-radius: 50%; background: var(--accent); color: var(--accent-ink); font: 600 11px var(--font-mono); margin-right: 8px; vertical-align: 1px; }
+.leg { font-family: var(--font-mono); font-size: 11px; color: var(--muted); padding: 2px 0 2px 28px; }
+.bag-row + .leg { margin-top: -4px; }
+.leg + .bag-row { border-top: 0; padding-top: 4px; }
+.top-actions .btn.quiet { padding-inline: 10px; }
