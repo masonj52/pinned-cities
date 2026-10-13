@@ -1,5 +1,7 @@
 # Pinned Cities
 
+- To Access App: https://masonj52.github.io/pinned-cities/
+  
 Saved Google Maps places, sorted by city and list, with a street map and a basket that sends picks to Google Maps.
 
 ## Files
