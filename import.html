@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Update Pinned Cities</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&family=Figtree:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrap" style="max-width:760px">
+  <div class="topbar"><span class="eyebrow">Owner tool</span><a class="maps" href="./">Back to the guide</a></div>
+  <section class="panel">
+    <h2>Update the places</h2>
+    <ol class="steps">
+      <li>On the Google account with the lists, open <a class="maps" href="https://takeout.google.com" target="_blank" rel="noopener">takeout.google.com ↗</a>.</li>
+      <li>Click “Deselect all”, tick <strong>Saved</strong>, and export.</li>
+      <li>Drop the .zip (or the .csv files inside it) below. Nothing leaves your computer.</li>
+    </ol>
+    <label class="drop" id="drop" for="file"><span>Drop the Takeout .zip or .csv files here</span><span class="btn">Choose files</span><input id="file" type="file" accept=".csv,.zip,text/csv,application/zip" multiple hidden></label>
+    <div class="status" id="status"></div>
+  </section>
+  <section class="panel" id="result" hidden>
+    <h2 id="r-title"></h2>
+    <div id="r-body"></div>
+    <div class="actions"><button type="button" class="btn primary" id="save">Download places.json</button></div>
+    <ol class="steps">
+      <li>In the GitHub repository for this site, open the <strong>data</strong> folder.</li>
+      <li>Choose <strong>Add file › Upload files</strong>, drop the new <strong>places.json</strong>, and click <strong>Commit changes</strong>.</li>
+      <li>The site updates within a minute or two.</li>
+    </ol>
+  </section>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+<script src="importer.js"></script>
+<script>
+(function () {
+  "use strict";
+  var $ = function (id) { return document.getElementById(id); };
+  var json = null;
+  function esc(s) { return String(s).replace(/[&<>"']/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]; }); }
+  function status(msg, err) { var s = $("status"); s.textContent = msg; s.className = "status" + (err ? " err" : ""); }
+
+  function read(files) {
+    files = Array.prototype.slice.call(files);
+    status("Reading " + files.length + (files.length === 1 ? " file…" : " files…"));
+    var jobs = files.map(function (f) {
+      if (/\.zip$/i.test(f.name)) {
+        if (!window.JSZip) return Promise.reject(new Error("The zip reader didn't load. Unzip the export and add the .csv files instead."));
+        return JSZip.loadAsync(f).then(function (zip) {
+          var inner = [];
+          zip.forEach(function (path, entry) { if (!entry.dir && /\.csv$/i.test(path)) inner.push(entry.async("string").then(function (t) { return { name: path.split("/").pop(), text: t }; })); });
+          return Promise.all(inner);
+        });
+      }
+      if (/\.csv$/i.test(f.name)) return f.text().then(function (t) { return [{ name: f.name, text: t }]; });
+      return Promise.resolve([]);
+    });
+    Promise.all(jobs).then(function (groups) {
+      var csvs = [].concat.apply([], groups);
+      if (!csvs.length) { status("No .csv files found. In Takeout, choose “Saved”, then add the .zip or the .csv files.", true); return; }
+      var r = PinnedImport.build(csvs);
+      var d = new Date(), iso = d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0");
+      json = JSON.stringify({ updated: iso, places: r.places });
+      var by = {}; r.places.forEach(function (p) { var c = p.city || "Other places"; by[c] = (by[c] || 0) + 1; });
+      var cities = Object.keys(by).sort(function (a, b) { return by[b] - by[a]; });
+      var odd = cities.filter(function (c) { return /^Near /.test(c); });
+      $("r-title").textContent = r.places.length + " places in " + cities.length + " cities";
+      var h = '<p class="sub" style="font-size:14px">From ' + r.lists + " lists" + (r.skipped ? ", " + r.skipped + " repeats skipped" : "") + ". Top cities: " + esc(cities.slice(0, 8).map(function (c) { return c + " " + by[c]; }).join(", ")) + ".</p>";
+      if (odd.length) h += '<p class="sub" style="font-size:14px">' + odd.length + " places are outside the cities the tool knows, so they're named by coordinates (" + esc(odd.slice(0, 4).join("; ")) + (odd.length > 4 ? "…" : "") + "). Ask Claude to add those towns to importer.js if you want proper names.</p>";
+      $("r-body").innerHTML = h;
+      $("result").hidden = false;
+      status("Ready. Download the file and upload it to GitHub.");
+    }).catch(function (e) { status(e && e.message ? e.message : "Couldn't read that file.", true); });
+  }
+
+  $("file").addEventListener("change", function () { if (this.files.length) read(this.files); });
+  var drop = $("drop");
+  ["dragenter", "dragover"].forEach(function (t) { drop.addEventListener(t, function (e) { e.preventDefault(); drop.classList.add("over"); }); });
+  ["dragleave", "drop"].forEach(function (t) { drop.addEventListener(t, function (e) { e.preventDefault(); drop.classList.remove("over"); }); });
+  drop.addEventListener("drop", function (e) { if (e.dataTransfer && e.dataTransfer.files.length) read(e.dataTransfer.files); });
+  $("save").addEventListener("click", function () {
+    if (!json) return;
+    var url = URL.createObjectURL(new Blob([json], { type: "application/json" }));
+    var a = document.createElement("a"); a.href = url; a.download = "places.json";
+    document.body.appendChild(a); a.click(); a.remove();
+    setTimeout(function () { URL.revokeObjectURL(url); }, 4000);
+  });
+})();
+</script>
+</body>
+</html>
