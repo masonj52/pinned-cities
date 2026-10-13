@@ -1,0 +1,6370 @@
+{
+ "pm8kgha": {
+  "title": "Dumbo Ceramics"
+ },
+ "p11tqiui": {
+  "title": "Frick Madison"
+ },
+ "p1noqe36": {
+  "title": "Lisson Gallery",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 356905165,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 10859974169,
+   "lat": "40.7485172",
+   "lon": "-74.0043407",
+   "category": "tourism",
+   "type": "gallery",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "tourism",
+   "name": "Lisson Gallery",
+   "display_name": "Lisson Gallery, 504, West 24th Street, Chelsea District, Manhattan Community Board 4, Manhattan, New York County, New York, 10011, United States",
+   "address": {
+    "tourism": "Lisson Gallery",
+    "house_number": "504",
+    "road": "West 24th Street",
+    "neighbourhood": "Chelsea District",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10011",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "email": "contact@lissongallery.com",
+    "phone": "+1-212-505-6431",
+    "website": "https://www.lissongallery.com",
+    "opening_hours": "Tu-Sa 10:00-18:00"
+   },
+   "namedetails": {
+    "name": "Lisson Gallery"
+   },
+   "boundingbox": [
+    "40.7484672",
+    "40.7485672",
+    "-74.0043907",
+    "-74.0042907"
+   ]
+  },
+  "moved_km": 3.12
+ },
+ "pdxjsru": {
+  "title": "Salon 94"
+ },
+ "p10usmff": {
+  "title": "StudioTwentySeven"
+ },
+ "p9er9cl": {
+  "title": "Bookmarc"
+ },
+ "pw43jyx": {
+  "title": "Left Bank Books"
+ },
+ "p15xpex6": {
+  "title": "Mercer Street Books & Records"
+ },
+ "pt1vzol": {
+  "title": "Rizzoli Bookstore"
+ },
+ "p1lkiue4": {
+  "title": "Bánh by Lauren",
+  "address_text": "42 Market St, New York, NY 10002",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 427212402,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 14137844402,
+   "lat": "40.7122297",
+   "lon": "-73.9942189",
+   "category": "amenity",
+   "type": "cafe",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Banh By Lauren",
+   "display_name": "Banh By Lauren, 42, Madison Street, Two Bridges, Manhattan Community Board 3, Manhattan, New York County, New York, 10002, United States",
+   "address": {
+    "amenity": "Banh By Lauren",
+    "house_number": "42",
+    "road": "Madison Street",
+    "neighbourhood": "Two Bridges",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10002",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "email": "hello@banhbylauren.com",
+    "level": "0",
+    "cuisine": "cake;coffee_shop",
+    "website": "https://banhbylauren.com/",
+    "check_date": "2026-08-31",
+    "website:menu": "https://banhbylauren.com/menu-january-2025/"
+   },
+   "namedetails": {
+    "name": "Banh By Lauren"
+   },
+   "boundingbox": [
+    "40.7121797",
+    "40.7122797",
+    "-73.9942689",
+    "-73.9941689"
+   ]
+  },
+  "moved_km": 2.82
+ },
+ "p11ivjxq": {
+  "title": "Café Lyria",
+  "address_text": "166 Crosby St, New York, NY 10012",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 359126609,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 12055618255,
+   "lat": "40.7258890",
+   "lon": "-73.9954623",
+   "category": "amenity",
+   "type": "cafe",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Cafe Lyria",
+   "display_name": "Cafe Lyria, 166, Crosby Street, NoHo, Manhattan, New York County, New York, 10012, United States",
+   "address": {
+    "amenity": "Cafe Lyria",
+    "house_number": "166",
+    "road": "Crosby Street",
+    "neighbourhood": "NoHo",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10012",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "opening_hours": "08:00-17:00"
+   },
+   "namedetails": {
+    "name": "Cafe Lyria"
+   },
+   "boundingbox": [
+    "40.7258390",
+    "40.7259390",
+    "-73.9955123",
+    "-73.9954123"
+   ]
+  },
+  "moved_km": 1.29
+ },
+ "p16mxksw": {
+  "title": "Cafe MSMN"
+ },
+ "p22jqtm": {
+  "title": "Café-Flor / Bar 21"
+ },
+ "pgqkplm": {
+  "title": "Gem Home",
+  "address_text": "181 Mott St, New York, NY 10012",
+  "pick": "address",
+  "hit": {
+   "place_id": 359166864,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 247866844,
+   "lat": "40.7206910",
+   "lon": "-73.9960831",
+   "category": "building",
+   "type": "yes",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "building",
+   "name": "",
+   "display_name": "181, Mott Street, Chinatown, Lower Manhattan, Manhattan, New York County, New York, 10012, United States",
+   "address": {
+    "house_number": "181",
+    "road": "Mott Street",
+    "neighbourhood": "Chinatown",
+    "quarter": "Lower Manhattan",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10012",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "boundingbox": [
+    "40.7206246",
+    "40.7207573",
+    "-73.9962421",
+    "-73.9959241"
+   ]
+  },
+  "moved_km": 3.95
+ },
+ "pvdawrq": {
+  "title": "L'Appartement 4F",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 359004770,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 9330613472,
+   "lat": "40.6950814",
+   "lon": "-73.9948457",
+   "category": "shop",
+   "type": "bakery",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "shop",
+   "name": "L’Appartement 4F",
+   "display_name": "L’Appartement 4F, 115, Montague Street, Brooklyn Heights, Brooklyn, Kings County, New York, 11201, United States",
+   "address": {
+    "shop": "L’Appartement 4F",
+    "house_number": "115",
+    "road": "Montague Street",
+    "neighbourhood": "Brooklyn Heights",
+    "suburb": "Brooklyn",
+    "city_district": "Kings County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "11201",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "phone": "+1-347-599-0006",
+    "branch": "Brooklyn Heights",
+    "amenity": "cafe",
+    "cuisine": "pastry;french",
+    "website": "https://lappartement4f.com",
+    "drink:wine": "yes",
+    "drink:espresso": "yes",
+    "outdoor_seating": "yes"
+   },
+   "namedetails": {
+    "name": "L’Appartement 4F"
+   },
+   "boundingbox": [
+    "40.6950314",
+    "40.6951314",
+    "-73.9948957",
+    "-73.9947957"
+   ]
+  },
+  "moved_km": 4.25
+ },
+ "p1norw5x": {
+  "title": "La Cabra",
+  "address_text": "152 2nd Ave, New York, NY 10003",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 360940395,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 9543892117,
+   "lat": "40.7293965",
+   "lon": "-73.9868649",
+   "category": "amenity",
+   "type": "cafe",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "La Cabra",
+   "display_name": "La Cabra, 2nd Avenue, East Village, Manhattan Community Board 3, Manhattan, New York County, New York, 10003, United States",
+   "address": {
+    "amenity": "La Cabra",
+    "road": "2nd Avenue",
+    "neighbourhood": "East Village",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10003",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "website": "https://us.lacabra.com/pages/east-village",
+    "drink:coffee": "yes",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa-Su 09:00-18:00",
+    "drink:espresso": "yes",
+    "outdoor_seating": "sidewalk"
+   },
+   "namedetails": {
+    "name": "La Cabra"
+   },
+   "boundingbox": [
+    "40.7293465",
+    "40.7294465",
+    "-73.9869149",
+    "-73.9868149"
+   ]
+  },
+  "moved_km": 1.02
+ },
+ "pei5zag": {
+  "title": "La Cabra Bakery",
+  "address_text": "152 2nd Ave, New York, NY 10003",
+  "pick": "address",
+  "hit": {
+   "place_id": 359778908,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 247852654,
+   "lat": "40.7293547",
+   "lon": "-73.9866878",
+   "category": "building",
+   "type": "apartments",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "building",
+   "name": "",
+   "display_name": "152, 2nd Avenue, East Village, Manhattan Community Board 3, Manhattan, New York County, New York, 10003, United States",
+   "address": {
+    "house_number": "152",
+    "road": "2nd Avenue",
+    "neighbourhood": "East Village",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10003",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "boundingbox": [
+    "40.7292099",
+    "40.7294786",
+    "-73.9868968",
+    "-73.9864291"
+   ]
+  },
+  "moved_km": 2.36
+ },
+ "p1of53xl": {
+  "title": "LAOBRA STUDIO"
+ },
+ "p1uv29ta": {
+  "title": "Laughing Man Cafe",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 357900322,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 8914329517,
+   "lat": "40.7145719",
+   "lon": "-74.0171487",
+   "category": "amenity",
+   "type": "cafe",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Laughing Man",
+   "display_name": "Laughing Man, 1, North End Avenue, Battery Park City, Lower Manhattan, Manhattan, New York County, New York, 10282, United States",
+   "address": {
+    "amenity": "Laughing Man",
+    "house_number": "1",
+    "road": "North End Avenue",
+    "neighbourhood": "Battery Park City",
+    "quarter": "Lower Manhattan",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10282",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "cuisine": "coffee_shop"
+   },
+   "namedetails": {
+    "name": "Laughing Man"
+   },
+   "boundingbox": [
+    "40.7145219",
+    "40.7146219",
+    "-74.0171987",
+    "-74.0170987"
+   ]
+  },
+  "moved_km": 0.78
+ },
+ "plf51lg": {
+  "title": "Librae Bakery",
+  "address_text": "35 Cooper Sq, New York, NY 10003",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 428174779,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 14212359383,
+   "lat": "40.7280760",
+   "lon": "-73.9907473",
+   "category": "shop",
+   "type": "bakery",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "shop",
+   "name": "Librae Bakery",
+   "display_name": "Librae Bakery, Cooper Square, East Village, Manhattan Community Board 3, Manhattan, New York County, New York, 10003, United States",
+   "address": {
+    "shop": "Librae Bakery",
+    "road": "Cooper Square",
+    "neighbourhood": "East Village",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10003",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "check_date": "2026-09-24"
+   },
+   "namedetails": {
+    "name": "Librae Bakery"
+   },
+   "boundingbox": [
+    "40.7280260",
+    "40.7281260",
+    "-73.9907973",
+    "-73.9906973"
+   ]
+  },
+  "moved_km": 3.09
+ },
+ "p1dsz8l2": {
+  "title": "Mary O's Irish Soda Bread Shop",
+  "address_text": "93 E 7th St, New York, NY 10009",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 360362610,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 12368232423,
+   "lat": "40.7268816",
+   "lon": "-73.9852583",
+   "category": "shop",
+   "type": "bakery",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "shop",
+   "name": "Mary O’s Irish Soda Bread Shop",
+   "display_name": "Mary O’s Irish Soda Bread Shop, 93 1/2, East 7th Street, East Village, Manhattan Community Board 3, Manhattan, New York County, New York, 10009, United States",
+   "address": {
+    "shop": "Mary O’s Irish Soda Bread Shop",
+    "house_number": "93 1/2",
+    "road": "East 7th Street",
+    "neighbourhood": "East Village",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10009",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": null,
+   "namedetails": {
+    "name": "Mary O’s Irish Soda Bread Shop"
+   },
+   "boundingbox": [
+    "40.7268316",
+    "40.7269316",
+    "-73.9853083",
+    "-73.9852083"
+   ]
+  },
+  "moved_km": 2.87
+ },
+ "p1x09ng0": {
+  "title": "MJ (Manny Janeth) Café"
+ },
+ "p17635d3": {
+  "title": "Radio Bakery",
+  "address_text": "135 India St, Brooklyn, NY 11222",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 359124217,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 2793692824,
+   "lat": "40.7323874",
+   "lon": "-73.9549952",
+   "category": "shop",
+   "type": "bakery",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "shop",
+   "name": "Radio Bakery",
+   "display_name": "Radio Bakery, 135, India Street, Greenpoint, Brooklyn, Kings County, New York, 11222, United States",
+   "address": {
+    "shop": "Radio Bakery",
+    "house_number": "135",
+    "road": "India Street",
+    "neighbourhood": "Greenpoint",
+    "suburb": "Brooklyn",
+    "city_district": "Kings County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "11222",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "website": "https://www.radiobakery.nyc",
+    "opening_hours": "Mo-Su 07:30-15:30",
+    "check_date:opening_hours": "2026-07-11"
+   },
+   "namedetails": {
+    "name": "Radio Bakery"
+   },
+   "boundingbox": [
+    "40.7323374",
+    "40.7324374",
+    "-73.9550452",
+    "-73.9549452"
+   ]
+  },
+  "moved_km": 5.23
+ },
+ "p1jzle1": {
+  "title": "RHYTHM ZERO | GREENPOINT",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 355694928,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 10557706111,
+   "lat": "40.7302525",
+   "lon": "-73.9598036",
+   "category": "amenity",
+   "type": "cafe",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Rhythm Zero",
+   "display_name": "Rhythm Zero, Kent Street, Greenpoint, Brooklyn, Kings County, New York, 11222, United States",
+   "address": {
+    "amenity": "Rhythm Zero",
+    "road": "Kent Street",
+    "neighbourhood": "Greenpoint",
+    "suburb": "Brooklyn",
+    "city_district": "Kings County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "11222",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "phone": "+1-347-907-5483",
+    "check_date": "2023-01-15",
+    "opening_hours": "Mo-Fr 07:00-16:00; Sa-Su 08:00-16:00",
+    "contact:instagram": "rhythmzeronyc"
+   },
+   "namedetails": {
+    "name": "Rhythm Zero"
+   },
+   "boundingbox": [
+    "40.7302025",
+    "40.7303025",
+    "-73.9598536",
+    "-73.9597536"
+   ]
+  },
+  "moved_km": 1.41
+ },
+ "p1smqy8x": {
+  "title": "Silence Please"
+ },
+ "p1ef3s0o": {
+  "title": "Urban Backyard"
+ },
+ "p8431yj": {
+  "title": "& son",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 426986176,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 9982070139,
+   "lat": "40.6927718",
+   "lon": "-73.9368604",
+   "category": "shop",
+   "type": "hairdresser",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "shop",
+   "name": "Father & Son Barbershop",
+   "display_name": "Father & Son Barbershop, 960, DeKalb Avenue, Brooklyn, Kings County, New York, 11221, United States",
+   "address": {
+    "shop": "Father & Son Barbershop",
+    "house_number": "960",
+    "road": "DeKalb Avenue",
+    "suburb": "Brooklyn",
+    "city_district": "Kings County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "11221",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "level": "0",
+    "phone": "+1-347-772-0318",
+    "check_date": "2026-06-05",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 09:00-17:00",
+    "check_date:opening_hours": "2026-06-05"
+   },
+   "namedetails": {
+    "name": "Father & Son Barbershop"
+   },
+   "boundingbox": [
+    "40.6927218",
+    "40.6928218",
+    "-73.9369104",
+    "-73.9368104"
+   ]
+  },
+  "moved_km": 5.65
+ },
+ "p115o11y": {
+  "title": "3rd & B'zaar"
+ },
+ "pzzradt": {
+  "title": "Atelier New York Men Store"
+ },
+ "p1djniea": {
+  "title": "Awake NY",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 359600142,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 5517079876,
+   "lat": "40.6721478",
+   "lon": "-73.9769754",
+   "category": "shop",
+   "type": "cannabis",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "shop",
+   "name": "Awake",
+   "display_name": "Awake, 204, Garfield Place, Park Slope, Brooklyn, Kings County, New York, 11215, United States",
+   "address": {
+    "shop": "Awake",
+    "house_number": "204",
+    "road": "Garfield Place",
+    "neighbourhood": "Park Slope",
+    "suburb": "Brooklyn",
+    "city_district": "Kings County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "11215",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "phone": "+1-347-335-0255",
+    "website": "https://awakeus.co",
+    "opening_hours": "Mo-Fr 13:00-20:00, Fr-Su 12:00-21:00"
+   },
+   "namedetails": {
+    "name": "Awake"
+   },
+   "boundingbox": [
+    "40.6720978",
+    "40.6721978",
+    "-73.9770254",
+    "-73.9769254"
+   ]
+  },
+  "moved_km": 10.83
+ },
+ "p1b9wdit": {
+  "title": "BAPE STORE NEW YORK SOHO",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 357112581,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 4696823290,
+   "lat": "40.7241702",
+   "lon": "-74.0001771",
+   "category": "shop",
+   "type": "clothes",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "shop",
+   "name": "BAPE store",
+   "display_name": "BAPE store, 91, Greene Street, University Village, Manhattan, New York County, New York, 10012, United States",
+   "address": {
+    "shop": "BAPE store",
+    "house_number": "91",
+    "road": "Greene Street",
+    "neighbourhood": "University Village",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10012",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": null,
+   "namedetails": {
+    "name": "BAPE store",
+    "name:en": "BAPE store"
+   },
+   "boundingbox": [
+    "40.7241202",
+    "40.7242202",
+    "-74.0002271",
+    "-74.0001271"
+   ]
+  },
+  "moved_km": 3.03
+ },
+ "pqz51xr": {
+  "title": "BIRKENSTOCK SoHo",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 356971470,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 12087734386,
+   "lat": "40.7235668",
+   "lon": "-74.0001577",
+   "category": "shop",
+   "type": "shoes",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "shop",
+   "name": "Birkenstock",
+   "display_name": "Birkenstock, 120, Spring Street, SoHo, Manhattan, New York County, New York, 10012, United States",
+   "address": {
+    "shop": "Birkenstock",
+    "house_number": "120",
+    "road": "Spring Street",
+    "neighbourhood": "SoHo",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10012",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "phone": "+1-646-850-6940",
+    "branch": "SoHo",
+    "website": "https://birkenstock.com",
+    "opening_hours": "Mo-Su 11:00-19:00",
+    "brand:wikidata": "Q648458"
+   },
+   "namedetails": {
+    "name": "Birkenstock",
+    "brand": "Birkenstock",
+    "name:en": "Birkenstock"
+   },
+   "boundingbox": [
+    "40.7235168",
+    "40.7236168",
+    "-74.0002077",
+    "-74.0001077"
+   ]
+  },
+  "moved_km": 1.23
+ },
+ "p1b6torx": {
+  "title": "Brandy Melville - Flagship"
+ },
+ "p1c1y2xv": {
+  "title": "BRUT ARCHIVES"
+ },
+ "p1dro80z": {
+  "title": "Buck Mason",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 360410331,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 10689623509,
+   "lat": "40.7231135",
+   "lon": "-73.9941091",
+   "category": "shop",
+   "type": "clothes",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "shop",
+   "name": "Buck Mason",
+   "display_name": "Buck Mason, 235, Elizabeth Street, NoHo, Manhattan, New York County, New York, 10012, United States",
+   "address": {
+    "shop": "Buck Mason",
+    "house_number": "235",
+    "road": "Elizabeth Street",
+    "neighbourhood": "NoHo",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10012",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "phone": "+1-917-261-7559",
+    "clothes": "men",
+    "website": "https://www.buckmason.com/pages/buck-mason-new-york-nolita",
+    "opening_hours": "Mo-Sa 11:00-19:00, Su 12:00-18:00",
+    "brand:wikidata": "Q48770898"
+   },
+   "namedetails": {
+    "name": "Buck Mason",
+    "brand": "Buck Mason",
+    "name:en": "Buck Mason"
+   },
+   "boundingbox": [
+    "40.7230635",
+    "40.7231635",
+    "-73.9941591",
+    "-73.9940591"
+   ]
+  },
+  "moved_km": 3.42
+ },
+ "p1h4q8dy": {
+  "title": "C'H'C'M'"
+ },
+ "p5kbjmk": {
+  "title": "colbo",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 426987101,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 14135689656,
+   "lat": "40.7165313",
+   "lon": "-73.9911817",
+   "category": "shop",
+   "type": "clothes",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "shop",
+   "name": "Colbo",
+   "display_name": "Colbo, 51, Orchard Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, New York, 10002, United States",
+   "address": {
+    "shop": "Colbo",
+    "house_number": "51",
+    "road": "Orchard Street",
+    "neighbourhood": "Lower East Side",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10002",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "level": "0",
+    "check_date": "2026-08-30",
+    "wheelchair": "no",
+    "payment:cash": "yes",
+    "payment:visa": "yes",
+    "internet_access": "no",
+    "payment:mastercard": "yes",
+    "payment:debit_cards": "yes",
+    "payment:credit_cards": "yes",
+    "payment:american_express": "yes"
+   },
+   "namedetails": {
+    "name": "Colbo"
+   },
+   "boundingbox": [
+    "40.7164813",
+    "40.7165813",
+    "-73.9912317",
+    "-73.9911317"
+   ]
+  },
+  "moved_km": 10.14
+ },
+ "pd6mqwt": {
+  "title": "COUNTRY OF",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 359724819,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 9630518799,
+   "lat": "40.7767969",
+   "lon": "-73.7274448",
+   "category": "shop",
+   "type": "car",
+   "place_rank": 30,
+   "importance": 4.930113679708579e-05,
+   "addresstype": "shop",
+   "name": "New Country Lexus of Great Neck",
+   "display_name": "New Country Lexus of Great Neck, 160, Northern Boulevard, Village of Russell Gardens, Village of Great Neck, Town of North Hempstead, Nassau County, New York, 11020, United States",
+   "address": {
+    "shop": "New Country Lexus of Great Neck",
+    "house_number": "160",
+    "road": "Northern Boulevard",
+    "hamlet": "Village of Russell Gardens",
+    "town": "Village of Great Neck",
+    "municipality": "Town of North Hempstead",
+    "county": "Nassau County",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "11020",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "brand:wikidata": "Q35919"
+   },
+   "namedetails": {
+    "name": "New Country Lexus of Great Neck",
+    "brand": "Lexus",
+    "name:en": "New Country Lexus of Great Neck"
+   },
+   "boundingbox": [
+    "40.7767469",
+    "40.7768469",
+    "-73.7274948",
+    "-73.7273948"
+   ]
+  },
+  "moved_km": 24.3
+ },
+ "pr2ku7z": {
+  "title": "CTRL Vintage"
+ },
+ "p3vnok8": {
+  "title": "Cueva",
+  "address_text": "49 Franklin St, Brooklyn, NY 11222",
+  "pick": "address",
+  "hit": {
+   "place_id": 358274752,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1100735546,
+   "lat": "40.7271334",
+   "lon": "-73.9574198",
+   "category": "building",
+   "type": "yes",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "building",
+   "name": "",
+   "display_name": "49, Franklin Street, Greenpoint, Brooklyn, Kings County, New York, 11222, United States",
+   "address": {
+    "house_number": "49",
+    "road": "Franklin Street",
+    "neighbourhood": "Greenpoint",
+    "suburb": "Brooklyn",
+    "city_district": "Kings County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "11222",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "boundingbox": [
+    "40.7270933",
+    "40.7271758",
+    "-73.9575192",
+    "-73.9573154"
+   ]
+  },
+  "moved_km": 1.99
+ },
+ "p1efehd6": {
+  "title": "District One"
+ },
+ "p29airt": {
+  "title": "Ebreo Vintage",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 359111116,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 279767790,
+   "lat": "40.7147040",
+   "lon": "-73.9623451",
+   "category": "shop",
+   "type": "clothes",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "shop",
+   "name": "Ebreo Vintage",
+   "display_name": "Ebreo Vintage, 142, Grand Street, Williamsburg, Brooklyn, Kings County, New York, 11249, United States",
+   "address": {
+    "shop": "Ebreo Vintage",
+    "house_number": "142",
+    "road": "Grand Street",
+    "quarter": "Williamsburg",
+    "suburb": "Brooklyn",
+    "city_district": "Kings County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "11249",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "height": "10.3",
+    "clothes": "men",
+    "building": "commercial",
+    "nycdoitt:bin": "3062772"
+   },
+   "namedetails": {
+    "name": "Ebreo Vintage"
+   },
+   "boundingbox": [
+    "40.7145377",
+    "40.7148142",
+    "-73.9624916",
+    "-73.9622384"
+   ]
+  },
+  "moved_km": 3.0
+ },
+ "p1ll6sho": {
+  "title": "First Team Vintage"
+ },
+ "p1kevkuy": {
+  "title": "FRAME",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 359281717,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 11479001393,
+   "lat": "40.7800776",
+   "lon": "-73.9803168",
+   "category": "amenity",
+   "type": "cafe",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Frame",
+   "display_name": "Frame, 305, Amsterdam Avenue, Upper West Side, Manhattan Community Board 7, Manhattan, New York County, New York, 10023, United States",
+   "address": {
+    "amenity": "Frame",
+    "house_number": "305",
+    "road": "Amsterdam Avenue",
+    "quarter": "Upper West Side",
+    "neighbourhood": "Manhattan Community Board 7",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10023",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "cuisine": "coffee_shop",
+    "opening_hours": "Mo-Su 07:00-17:00",
+    "indoor_seating": "yes",
+    "outdoor_seating": "no"
+   },
+   "namedetails": {
+    "name": "Frame"
+   },
+   "boundingbox": [
+    "40.7800276",
+    "40.7801276",
+    "-73.9803668",
+    "-73.9802668"
+   ]
+  },
+  "moved_km": 6.8
+ },
+ "p1vst41v": {
+  "title": "Free Agency",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 426765402,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 14135567863,
+   "lat": "40.7161858",
+   "lon": "-73.9915383",
+   "category": "shop",
+   "type": "clothes",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "shop",
+   "name": "Free Agency",
+   "display_name": "Free Agency, 85, Hester Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, New York, 10002, United States",
+   "address": {
+    "shop": "Free Agency",
+    "house_number": "85",
+    "road": "Hester Street",
+    "neighbourhood": "Lower East Side",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10002",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "check_date": "2026-08-30",
+    "wheelchair": "no",
+    "payment:cash": "yes",
+    "payment:visa": "yes",
+    "internet_access": "no",
+    "payment:mastercard": "yes",
+    "payment:debit_cards": "yes",
+    "payment:credit_cards": "yes",
+    "payment:american_express": "yes"
+   },
+   "namedetails": {
+    "name": "Free Agency"
+   },
+   "boundingbox": [
+    "40.7161358",
+    "40.7162358",
+    "-73.9915883",
+    "-73.9914883"
+   ]
+  },
+  "moved_km": 7.24
+ },
+ "phmyc6": {
+  "title": "Fucking Awesome"
+ },
+ "p1bnwn93": {
+  "title": "Fugazi"
+ },
+ "p1bdfrtu": {
+  "title": "Golden Goose New York Soho"
+ },
+ "p1dz20h": {
+  "title": "Luke's",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 359089154,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 2567557177,
+   "lat": "40.7181184",
+   "lon": "-73.9904938",
+   "category": "shop",
+   "type": "clothes",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "shop",
+   "name": "Luke's",
+   "display_name": "Luke's, 261, Broome Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, New York, 10002, United States",
+   "address": {
+    "shop": "Luke's",
+    "house_number": "261",
+    "road": "Broome Street",
+    "neighbourhood": "Lower East Side",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10002",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "website": "https://lukes.store",
+    "second_hand": "only"
+   },
+   "namedetails": {
+    "name": "Luke's"
+   },
+   "boundingbox": [
+    "40.7180684",
+    "40.7181684",
+    "-73.9905438",
+    "-73.9904438"
+   ]
+  },
+  "moved_km": 4.71
+ },
+ "p54eqn7": {
+  "title": "Nudie Jeans Co."
+ },
+ "p1c63yj": {
+  "title": "Other People's Clothes",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 358261633,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 2488562088,
+   "lat": "40.7095985",
+   "lon": "-73.9574361",
+   "category": "shop",
+   "type": "clothes",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "shop",
+   "name": "Other People’s Clothes",
+   "display_name": "Other People’s Clothes, 150, Marcy Avenue, Williamsburg, Brooklyn, Kings County, New York, 11211, United States",
+   "address": {
+    "shop": "Other People’s Clothes",
+    "house_number": "150",
+    "road": "Marcy Avenue",
+    "quarter": "Williamsburg",
+    "suburb": "Brooklyn",
+    "city_district": "Kings County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "11211",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "phone": "+1-347-763-0040",
+    "branch": "Williamsburg",
+    "website": "https://www.opcbuyselltrade.com/",
+    "instagram": "opcbuyselltrade",
+    "second_hand": "yes",
+    "opening_hours": "11:00-20:00"
+   },
+   "namedetails": {
+    "name": "Other People’s Clothes"
+   },
+   "boundingbox": [
+    "40.7095485",
+    "40.7096485",
+    "-73.9574861",
+    "-73.9573861"
+   ]
+  },
+  "moved_km": 5.42
+ },
+ "p1kzngvp": {
+  "title": "Palace Skateboard Apparel"
+ },
+ "p8pys4o": {
+  "title": "Patron of the New"
+ },
+ "p14b77q5": {
+  "title": "Raggedy Threads"
+ },
+ "polrors": {
+  "title": "Rare Bodega",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 359100302,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 2567561026,
+   "lat": "40.7156846",
+   "lon": "-73.9907209",
+   "category": "shop",
+   "type": "clothes",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "shop",
+   "name": "Rare Bodega",
+   "display_name": "Rare Bodega, 29, Ludlow Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, New York, 10002, United States",
+   "address": {
+    "shop": "Rare Bodega",
+    "house_number": "29",
+    "road": "Ludlow Street",
+    "neighbourhood": "Lower East Side",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10002",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "website": "https://www.rarebodega.com",
+    "second_hand": "yes"
+   },
+   "namedetails": {
+    "name": "Rare Bodega"
+   },
+   "boundingbox": [
+    "40.7156346",
+    "40.7157346",
+    "-73.9907709",
+    "-73.9906709"
+   ]
+  },
+  "moved_km": 2.98
+ },
+ "pcdhpe3": {
+  "title": "Rogue",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 360334677,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 9630440539,
+   "lat": "40.7219194",
+   "lon": "-73.9903378",
+   "category": "shop",
+   "type": "clothes",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "shop",
+   "name": "Rogue",
+   "display_name": "Rogue, 53, Stanton Street, Manhattan Community Board 3, Manhattan, New York County, New York, 10002, United States",
+   "address": {
+    "shop": "Rogue",
+    "house_number": "53",
+    "road": "Stanton Street",
+    "neighbourhood": "Manhattan Community Board 3",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10002",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "phone": "+1-908-285-1292",
+    "website": "https://emmarogue.com"
+   },
+   "namedetails": {
+    "name": "Rogue"
+   },
+   "boundingbox": [
+    "40.7218694",
+    "40.7219694",
+    "-73.9903878",
+    "-73.9902878"
+   ]
+  },
+  "moved_km": 2.26
+ },
+ "pjwzh6": {
+  "title": "Salomon Sportstyle Store"
+ },
+ "p1rz07gf": {
+  "title": "Standard & Strange"
+ },
+ "p1cl3bno": {
+  "title": "Stüssy"
+ },
+ "pk3z6fm": {
+  "title": "Supreme",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 358828363,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 5792952276,
+   "lat": "40.7211233",
+   "lon": "-73.9939604",
+   "category": "shop",
+   "type": "skate",
+   "place_rank": 30,
+   "importance": 0.31074813956852465,
+   "addresstype": "shop",
+   "name": "Supreme",
+   "display_name": "Supreme, 190, Bowery, Little Italy, Lower Manhattan, Manhattan, New York County, New York, 10012, United States",
+   "address": {
+    "shop": "Supreme",
+    "house_number": "190",
+    "road": "Bowery",
+    "neighbourhood": "Little Italy",
+    "quarter": "Lower Manhattan",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10012",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "phone": "+1-212-9667799",
+    "clothes": "women;men",
+    "website": "https://www.supremenewyork.com/",
+    "wikidata": "Q5551898",
+    "opening_hours": "Mo-Sa 11:00-19:00; Su 12:00-18:00"
+   },
+   "namedetails": {
+    "name": "Supreme"
+   },
+   "boundingbox": [
+    "40.7210733",
+    "40.7211733",
+    "-73.9940104",
+    "-73.9939104"
+   ]
+  },
+  "moved_km": 0.7
+ },
+ "p80m21z": {
+  "title": "Theory SoHo"
+ },
+ "p13qieg1": {
+  "title": "Varsity New York City"
+ },
+ "pgrhdhh": {
+  "title": "Ven. Space",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 360297711,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 4194051138,
+   "lat": "40.6808790",
+   "lon": "-73.9964522",
+   "category": "shop",
+   "type": "clothes",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "shop",
+   "name": "Ven. Space",
+   "display_name": "Ven. Space, 369, Court Street, Carroll Gardens, Brooklyn, Kings County, New York, 11231, United States",
+   "address": {
+    "shop": "Ven. Space",
+    "house_number": "369",
+    "road": "Court Street",
+    "neighbourhood": "Carroll Gardens",
+    "suburb": "Brooklyn",
+    "city_district": "Kings County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "11231",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "website": "https://ven.space",
+    "opening_hours": "We-Su 12:00-18:00"
+   },
+   "namedetails": {
+    "name": "Ven. Space"
+   },
+   "boundingbox": [
+    "40.6808290",
+    "40.6809290",
+    "-73.9965022",
+    "-73.9964022"
+   ]
+  },
+  "moved_km": 1.44
+ },
+ "pxd40pc": {
+  "title": "Y-3"
+ },
+ "prpt6ty": {
+  "title": "BASEMENT NY",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 358182904,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 7063640585,
+   "lat": "40.7152945",
+   "lon": "-73.9136973",
+   "category": "amenity",
+   "type": "nightclub",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Basement NYC",
+   "display_name": "Basement NYC, 54th Street, Queens, Queens County, New York, 11378, United States",
+   "address": {
+    "amenity": "Basement NYC",
+    "road": "54th Street",
+    "suburb": "Queens",
+    "county": "Queens County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "11378",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": null,
+   "namedetails": {
+    "name": "Basement NYC"
+   },
+   "boundingbox": [
+    "40.7152445",
+    "40.7153445",
+    "-73.9137473",
+    "-73.9136473"
+   ]
+  },
+  "moved_km": 6.62
+ },
+ "p1oe878x": {
+  "title": "Brooklyn Mirage",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 359418191,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 250325740,
+   "lat": "40.6778489",
+   "lon": "-73.9433151",
+   "category": "tourism",
+   "type": "hotel",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "tourism",
+   "name": "Mirage Brooklyn",
+   "display_name": "Mirage Brooklyn, 1464, Atlantic Avenue, Brooklyn, Kings County, New York, 11216, United States",
+   "address": {
+    "tourism": "Mirage Brooklyn",
+    "house_number": "1464",
+    "road": "Atlantic Avenue",
+    "suburb": "Brooklyn",
+    "city_district": "Kings County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "11216",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "height": "16.9",
+    "building": "hotel",
+    "nycdoitt:bin": "3029869"
+   },
+   "namedetails": {
+    "name": "Mirage Brooklyn"
+   },
+   "boundingbox": [
+    "40.6777743",
+    "40.6779236",
+    "-73.9434464",
+    "-73.9431838"
+   ]
+  },
+  "moved_km": 8.59
+ },
+ "p1jtdkw3": {
+  "title": "Brooklyn Storehouse",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 425566324,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 249605362,
+   "lat": "40.6593994",
+   "lon": "-74.0045436",
+   "category": "building",
+   "type": "commercial",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "building",
+   "name": "Storehouse #2",
+   "display_name": "Storehouse #2, 850, 3rd Avenue, Sunset Park, Brooklyn, Kings County, New York, 11232, United States",
+   "address": {
+    "building": "Storehouse #2",
+    "house_number": "850",
+    "road": "3rd Avenue",
+    "neighbourhood": "Sunset Park",
+    "suburb": "Brooklyn",
+    "city_district": "Kings County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "11232",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "owner": "Salmar Properties",
+    "height": "31.1",
+    "building": "commercial",
+    "heritage": "2",
+    "historic": "naval",
+    "ref:nrhp": "13000026",
+    "source_ref": "https://npgallery.nps.gov/NRHP/AssetDetail/e3d51e27-22bd-44ac-849a-a7f0a29ba61c",
+    "start_date": "1917",
+    "nycdoitt:bin": "3009889",
+    "nrhp:criteria": "A;B;C",
+    "building:levels": "8",
+    "heritage:website": "https://www.nps.gov/subjects/nationalregister/index.htm",
+    "protection_title": "private",
+    "heritage:operator": "nrhp",
+    "nrhp:inscription_date": "2021-02-20"
+   },
+   "namedetails": {
+    "old_name:1917-1960": "Storehouse #2"
+   },
+   "boundingbox": [
+    "40.6585443",
+    "40.6601616",
+    "-74.0056783",
+    "-74.0032543"
+   ]
+  },
+  "moved_km": 4.46
+ },
+ "p10cpq48": {
+  "title": "Nebula"
+ },
+ "puw7whe": {
+  "title": "Outer Heaven",
+  "address_text": "191 Chrystie St, New York, NY 10002",
+  "pick": "address",
+  "hit": {
+   "place_id": 359145530,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 247920451,
+   "lat": "40.7219976",
+   "lon": "-73.9922737",
+   "category": "building",
+   "type": "yes",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "building",
+   "name": "",
+   "display_name": "191, Chrystie Street, Manhattan Community Board 3, Manhattan, New York County, New York, 10002, United States",
+   "address": {
+    "house_number": "191",
+    "road": "Chrystie Street",
+    "neighbourhood": "Manhattan Community Board 3",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10002",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "boundingbox": [
+    "40.7218738",
+    "40.7221214",
+    "-73.9925140",
+    "-73.9920334"
+   ]
+  },
+  "moved_km": 2.37
+ },
+ "p11z1iw2": {
+  "title": "PHD Rooftop Lounge at Dream Downtown"
+ },
+ "p1ijanpi": {
+  "title": "Public Arts",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 359181943,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 2710204016,
+   "lat": "40.7732287",
+   "lon": "-73.9847509",
+   "category": "amenity",
+   "type": "library",
+   "place_rank": 30,
+   "importance": 0.4772214284545285,
+   "addresstype": "amenity",
+   "name": "New York Public Library for the Performing Arts, Dorothy and Lewis B. Cullman Center",
+   "display_name": "New York Public Library for the Performing Arts, Dorothy and Lewis B. Cullman Center, 40, Hearst Plaza, Lincoln Square, Manhattan Community Board 7, Manhattan, New York County, New York, 10023, United States",
+   "address": {
+    "amenity": "New York Public Library for the Performing Arts, Dorothy and Lewis B. Cullman Center",
+    "house_number": "40",
+    "road": "Hearst Plaza",
+    "neighbourhood": "Lincoln Square",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10023",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "email": "performingarts@nypl.org",
+    "phone": "+1-917-275-6975",
+    "access": "yes",
+    "website": "https://www.nypl.org/locations/lpa",
+    "operator": "New York Public Library",
+    "ref:isil": "US-nnpac;US-nnl;US-nnrha",
+    "wikidata": "Q7013890",
+    "wikipedia": "en:New York Public Library for the Performing Arts",
+    "wheelchair": "yes",
+    "opening_hours": "Mo,Th 10:00-20:00; Tu-We,Fr-Sa 10:00-18:00; Su,PH off; May Mo[-1] -2 days off",
+    "operator:type": "public",
+    "operator:short": "NYPL",
+    "internet_access": "wlan",
+    "air_conditioning": "yes",
+    "operator:wikidata": "Q219555",
+    "operator:wikipedia": "en:New York Public Library",
+    "internet_access:fee": "no"
+   },
+   "namedetails": {
+    "name": "New York Public Library for the Performing Arts, Dorothy and Lewis B. Cullman Center"
+   },
+   "boundingbox": [
+    "40.7731787",
+    "40.7732787",
+    "-73.9848009",
+    "-73.9847009"
+   ]
+  },
+  "moved_km": 4.05
+ },
+ "p1cvtpnf": {
+  "title": "Refuge | Hi Def Dance Club",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 357591297,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 9457335,
+   "lat": "40.6141526",
+   "lon": "-73.8542663",
+   "category": "leisure",
+   "type": "nature_reserve",
+   "place_rank": 24,
+   "importance": 0.4013947720587043,
+   "addresstype": "nature_reserve",
+   "name": "Jamaica Bay Wildlife Refuge",
+   "display_name": "Jamaica Bay Wildlife Refuge, New York, 11693, United States",
+   "address": {
+    "nature_reserve": "Jamaica Bay Wildlife Refuge",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "11693",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "ele": "0",
+    "boundary": "protected_area",
+    "operator": "National Park Service",
+    "wikidata": "Q6127271",
+    "ownership": "national",
+    "protected": "perpetuity",
+    "wikipedia": "en:Jamaica Bay Wildlife Refuge",
+    "operator:type": "public",
+    "operator:short": "NPS",
+    "protected_area": "wildlife_refuge",
+    "protection_title": "Wildlife Refuge",
+    "operator:wikidata": "Q308439"
+   },
+   "namedetails": {
+    "name": "Jamaica Bay Wildlife Refuge"
+   },
+   "boundingbox": [
+    "40.5801973",
+    "40.6481207",
+    "-73.8881521",
+    "-73.7774782"
+   ]
+  },
+  "moved_km": 14.64
+ },
+ "p1pia2l": {
+  "title": "Signal",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 360210493,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 12730434021,
+   "lat": "40.7101272",
+   "lon": "-73.9335081",
+   "category": "amenity",
+   "type": "nightclub",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Signal",
+   "display_name": "Signal, 175, Morgan Avenue, Brooklyn, Kings County, New York, 11237, United States",
+   "address": {
+    "amenity": "Signal",
+    "house_number": "175",
+    "road": "Morgan Avenue",
+    "suburb": "Brooklyn",
+    "city_district": "Kings County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "11237",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "website": "https://www.signalnyc.club",
+    "opening_hours": "Th-Sa 21:00-04:00; Su 15:00-03:00"
+   },
+   "namedetails": {
+    "name": "Signal"
+   },
+   "boundingbox": [
+    "40.7100772",
+    "40.7101772",
+    "-73.9335581",
+    "-73.9334581"
+   ]
+  },
+  "moved_km": 6.11
+ },
+ "pmpn09r": {
+  "title": "Silencio"
+ },
+ "psijtas": {
+  "title": "SILO",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 358210015,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 363319119,
+   "lat": "40.5616879",
+   "lon": "-73.8882064",
+   "category": "historic",
+   "type": "ruins",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "historic",
+   "name": "Nike Silo",
+   "display_name": "Nike Silo, Range Road, Queens, Queens County, New York, 11697, United States",
+   "address": {
+    "historic": "Nike Silo",
+    "road": "Range Road",
+    "suburb": "Queens",
+    "county": "Queens County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "11697",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": null,
+   "namedetails": {
+    "name": "Nike Silo"
+   },
+   "boundingbox": [
+    "40.5611295",
+    "40.5622461",
+    "-73.8889430",
+    "-73.8874698"
+   ]
+  },
+  "moved_km": 21.02
+ },
+ "p5ki3l9": {
+  "title": "Somewhere Nowhere NYC - Lounge, Nightclub & Rooftop Pool"
+ },
+ "p1ali21f": {
+  "title": "Unveiled New York"
+ },
+ "p2bfkh8": {
+  "title": "VIRGO New York",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 359029415,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 2713490434,
+   "lat": "40.6784890",
+   "lon": "-73.9622826",
+   "category": "craft",
+   "type": "metal_construction",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "craft",
+   "name": "Virgo Iron Works",
+   "display_name": "Virgo Iron Works, 568E, Grand Avenue, Prospect Heights, Brooklyn, Kings County, New York, 11238, United States",
+   "address": {
+    "craft": "Virgo Iron Works",
+    "house_number": "568E",
+    "road": "Grand Avenue",
+    "neighbourhood": "Prospect Heights",
+    "suburb": "Brooklyn",
+    "city_district": "Kings County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "11238",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "fax": "+1-718-623-8280",
+    "phone": "+1-718-623-6035",
+    "website": "https://virgoironworks.org"
+   },
+   "namedetails": {
+    "name": "Virgo Iron Works"
+   },
+   "boundingbox": [
+    "40.6784390",
+    "40.6785390",
+    "-73.9623326",
+    "-73.9622326"
+   ]
+  },
+  "moved_km": 4.62
+ },
+ "pjy3yzi": {
+  "title": "Artful Posters"
+ },
+ "puciuul": {
+  "title": "Blick Art Materials",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 359119225,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 6276436253,
+   "lat": "40.7408451",
+   "lon": "-73.9940422",
+   "category": "shop",
+   "type": "craft",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "shop",
+   "name": "Blick Art Materials",
+   "display_name": "Blick Art Materials, 650, 6th Avenue, Flatiron District, Manhattan Community Board 5, Manhattan, New York County, New York, 10011, United States",
+   "address": {
+    "shop": "Blick Art Materials",
+    "house_number": "650",
+    "road": "6th Avenue",
+    "neighbourhood": "Flatiron District",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10011",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "phone": "+1 212-524-9611",
+    "branch": "6th Ave",
+    "website": "https://www.dickblick.com/stores/new-york/new-york-city-6th-ave/",
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 11:00-18:00"
+   },
+   "namedetails": {
+    "name": "Blick Art Materials"
+   },
+   "boundingbox": [
+    "40.7407951",
+    "40.7408951",
+    "-73.9940922",
+    "-73.9939922"
+   ]
+  },
+  "moved_km": 3.51
+ },
+ "p1s3s089": {
+  "title": "Chrome Hearts"
+ },
+ "p1nuijso": {
+  "title": "MoMA Design Store - Midtown",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 359178829,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 5759194700,
+   "lat": "40.7611682",
+   "lon": "-73.9779863",
+   "category": "shop",
+   "type": "houseware",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "shop",
+   "name": "MoMa Design Store",
+   "display_name": "MoMa Design Store, 44, West 53rd Street, Midtown East, Manhattan Community Board 5, Manhattan, New York County, New York, 10019, United States",
+   "address": {
+    "shop": "MoMa Design Store",
+    "house_number": "44",
+    "road": "West 53rd Street",
+    "neighbourhood": "Midtown East",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10019",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "phone": "+1 212-767-1050",
+    "website": "https://store.moma.org/moma-design-store?StoreID=momastore_3",
+    "wheelchair": "yes",
+    "opening_hours": "Su-Fr 10:00-18:30; Sa 10:00-19:30"
+   },
+   "namedetails": {
+    "name": "MoMa Design Store"
+   },
+   "boundingbox": [
+    "40.7611182",
+    "40.7612182",
+    "-73.9780363",
+    "-73.9779363"
+   ]
+  },
+  "moved_km": 4.74
+ },
+ "pj73r3y": {
+  "title": "Posteritati Movie Poster Gallery"
+ },
+ "p12i1gxg": {
+  "title": "Theo's Haberdashery",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 359160229,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 12980602001,
+   "lat": "40.7287895",
+   "lon": "-73.9897729",
+   "category": "shop",
+   "type": "clothes",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "shop",
+   "name": "Theo’s Haberdashery",
+   "display_name": "Theo’s Haberdashery, 13, East 7th Street, East Village, Manhattan Community Board 3, Manhattan, New York County, New York, 10003, United States",
+   "address": {
+    "shop": "Theo’s Haberdashery",
+    "house_number": "13",
+    "road": "East 7th Street",
+    "neighbourhood": "East Village",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10003",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": null,
+   "namedetails": {
+    "name": "Theo’s Haberdashery"
+   },
+   "boundingbox": [
+    "40.7287395",
+    "40.7288395",
+    "-73.9898229",
+    "-73.9897229"
+   ]
+  },
+  "moved_km": 3.4
+ },
+ "p17plyrv": {
+  "title": "Zaidi's NYC",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 359016568,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 13516817470,
+   "lat": "40.7144190",
+   "lon": "-73.9909987",
+   "category": "shop",
+   "type": "gift",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "shop",
+   "name": "Zaidi’s",
+   "display_name": "Zaidi’s, 139, Division Street, Two Bridges, Manhattan Community Board 3, Manhattan, New York County, New York, 10002, United States",
+   "address": {
+    "shop": "Zaidi’s",
+    "house_number": "139",
+    "road": "Division Street",
+    "neighbourhood": "Two Bridges",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10002",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "website": "https://zaidisnyc.com/",
+    "description": "Restored tobacciana antiques, records, and candy. Lighter restorations available in store",
+    "opening_hours": "We-Su 12:00-19:00"
+   },
+   "namedetails": {
+    "name": "Zaidi’s"
+   },
+   "boundingbox": [
+    "40.7143690",
+    "40.7144690",
+    "-73.9910487",
+    "-73.9909487"
+   ]
+  },
+  "moved_km": 6.99
+ },
+ "p5q2jsx": {
+  "title": "161 Lafayette",
+  "address_text": "6 photos Back 161 Lafayette Bar Share Entire Bar Exterior Entire Bar View space Exterior 161 Lafayette Bar Karaoke Bar 161 Lafayette Street, New York, NY 10013",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 359072494,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 11447971796,
+   "lat": "40.7198136",
+   "lon": "-73.9990736",
+   "category": "amenity",
+   "type": "bar",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "161 Lafayette",
+   "display_name": "161 Lafayette, 161, Lafayette Street, Little Italy, Lower Manhattan, Manhattan, New York County, New York, 10013, United States",
+   "address": {
+    "amenity": "161 Lafayette",
+    "house_number": "161",
+    "road": "Lafayette Street",
+    "neighbourhood": "Little Italy",
+    "quarter": "Lower Manhattan",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10013",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "karaoke": "yes",
+    "website": "https://www.161lafayettebar.com",
+    "opening_hours": "Mo 17:00-24:00, Tu-We 17:00-02:00, Th 17:00-02:00, Fr-Sa 14:00-04:00, Su 14:00-24:00",
+    "disused:website": "http://www.161lafayette.com"
+   },
+   "namedetails": {
+    "name": "161 Lafayette"
+   },
+   "boundingbox": [
+    "40.7197636",
+    "40.7198636",
+    "-73.9991236",
+    "-73.9990236"
+   ]
+  },
+  "moved_km": 2.49
+ },
+ "pgtro45": {
+  "title": "Bar Americano",
+  "address_text": "180 Franklin St, Brooklyn, NY 11222",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 355749569,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 2275469171,
+   "lat": "40.7314241",
+   "lon": "-73.9576915",
+   "category": "amenity",
+   "type": "bar",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Bar Americano",
+   "display_name": "Bar Americano, 180, Franklin Street, Greenpoint, Brooklyn, Kings County, New York, 11222, United States",
+   "address": {
+    "amenity": "Bar Americano",
+    "house_number": "180",
+    "road": "Franklin Street",
+    "neighbourhood": "Greenpoint",
+    "suburb": "Brooklyn",
+    "city_district": "Kings County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "11222",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "website": "https://www.baramericanonyc.com",
+    "opening_hours": "Mo-Tu 17:00-24:00; We 15:00-24:00; Th 15:00-01:00; Fr 15:00-02:00; Sa 13:00-02:00; Su 13:00-11:00"
+   },
+   "namedetails": {
+    "name": "Bar Americano"
+   },
+   "boundingbox": [
+    "40.7313741",
+    "40.7314741",
+    "-73.9577415",
+    "-73.9576415"
+   ]
+  },
+  "moved_km": 1.49
+ },
+ "p7u5ehy": {
+  "title": "Bar Orai"
+ },
+ "p1ctfel9": {
+  "title": "Cafe Balearica",
+  "address_text": "44 Berry St, Brooklyn, NY 11249",
+  "pick": "address",
+  "hit": {
+   "place_id": 361018825,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 280118943,
+   "lat": "40.7211109",
+   "lon": "-73.9566364",
+   "category": "building",
+   "type": "residential",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "building",
+   "name": "",
+   "display_name": "44, Berry Street, Williamsburg, Brooklyn, Kings County, New York, 11249, United States",
+   "address": {
+    "house_number": "44",
+    "road": "Berry Street",
+    "quarter": "Williamsburg",
+    "suburb": "Brooklyn",
+    "city_district": "Kings County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "11249",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "boundingbox": [
+    "40.7209622",
+    "40.7212425",
+    "-73.9568262",
+    "-73.9564649"
+   ]
+  },
+  "moved_km": 5.79
+ },
+ "pc6fsca": {
+  "title": "Clemente Bar",
+  "address_text": "11 Madison Ave, New York, NY 10010",
+  "pick": "address",
+  "hit": {
+   "place_id": 359228169,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 3932353662,
+   "lat": "40.7415982",
+   "lon": "-73.9871904",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 0.4217164953504801,
+   "addresstype": "amenity",
+   "name": "Eleven Madison Park",
+   "display_name": "Eleven Madison Park, 11, Madison Avenue, Flatiron District, Manhattan Community Board 5, Manhattan, New York County, New York, 10010, United States",
+   "address": {
+    "amenity": "Eleven Madison Park",
+    "house_number": "11",
+    "road": "Madison Avenue",
+    "neighbourhood": "Flatiron District",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10010",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "boundingbox": [
+    "40.7415482",
+    "40.7416482",
+    "-73.9872404",
+    "-73.9871404"
+   ]
+  },
+  "moved_km": 2.72
+ },
+ "p1n3yxe5": {
+  "title": "Dead Letter No. 9",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 358894457,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 3731188495,
+   "lat": "40.7159838",
+   "lon": "-73.9649064",
+   "category": "amenity",
+   "type": "bar",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Dead Letter No. 9",
+   "display_name": "Dead Letter No. 9, 63, Grand Street, Williamsburg, Brooklyn, Kings County, New York, 11211, United States",
+   "address": {
+    "amenity": "Dead Letter No. 9",
+    "house_number": "63",
+    "road": "Grand Street",
+    "quarter": "Williamsburg",
+    "suburb": "Brooklyn",
+    "city_district": "Kings County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "11211",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "check_date": "2025-07-27"
+   },
+   "namedetails": {
+    "name": "Dead Letter No. 9"
+   },
+   "boundingbox": [
+    "40.7159338",
+    "40.7160338",
+    "-73.9649564",
+    "-73.9648564"
+   ]
+  },
+  "moved_km": 5.17
+ },
+ "pmivk7": {
+  "title": "Eavesdrop",
+  "address_text": "674 Manhattan Ave, Brooklyn, NY 11222",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 359295900,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 11517820569,
+   "lat": "40.7248795",
+   "lon": "-73.9512955",
+   "category": "amenity",
+   "type": "bar",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Eavesdrop",
+   "display_name": "Eavesdrop, 674, Manhattan Avenue, Greenpoint, Brooklyn, Kings County, New York, 11222, United States",
+   "address": {
+    "amenity": "Eavesdrop",
+    "house_number": "674",
+    "road": "Manhattan Avenue",
+    "neighbourhood": "Greenpoint",
+    "suburb": "Brooklyn",
+    "city_district": "Kings County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "11222",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "email": "hello@eavesdrop.nyc",
+    "website": "https://www.eavesdrop.nyc",
+    "opening_hours": "Su 14:00-01:00; Mo-Th 17:00-01:00; Fr 17:00-02:00; Sa 14:00-02:00"
+   },
+   "namedetails": {
+    "name": "Eavesdrop"
+   },
+   "boundingbox": [
+    "40.7248295",
+    "40.7249295",
+    "-73.9513455",
+    "-73.9512455"
+   ]
+  },
+  "moved_km": 5.67
+ },
+ "puteip3": {
+  "title": "Elvis",
+  "address_text": "54 Great Jones St, New York, NY 10012",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 359245461,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 9668165674,
+   "lat": "40.7267174",
+   "lon": "-73.9921853",
+   "category": "amenity",
+   "type": "bar",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Elvis",
+   "display_name": "Elvis, 54, Great Jones Street, NoHo, Manhattan, New York County, New York, 10012, United States",
+   "address": {
+    "amenity": "Elvis",
+    "house_number": "54",
+    "road": "Great Jones Street",
+    "neighbourhood": "NoHo",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10012",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "check_date": "2024-11-05",
+    "drink:wine": "yes",
+    "outdoor_seating": "sidewalk;street"
+   },
+   "namedetails": {
+    "name": "Elvis"
+   },
+   "boundingbox": [
+    "40.7266674",
+    "40.7267674",
+    "-73.9922353",
+    "-73.9921353"
+   ]
+  },
+  "moved_km": 3.07
+ },
+ "p1rqqdze": {
+  "title": "Gabriela",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 359282502,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 2842878676,
+   "lat": "40.7217038",
+   "lon": "-73.9582538",
+   "category": "amenity",
+   "type": "nightclub",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Gabriela",
+   "display_name": "Gabriela, 90, Wythe Avenue, Williamsburg, Brooklyn, Kings County, New York, 11249, United States",
+   "address": {
+    "amenity": "Gabriela",
+    "house_number": "90",
+    "road": "Wythe Avenue",
+    "quarter": "Williamsburg",
+    "suburb": "Brooklyn",
+    "city_district": "Kings County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "11249",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "website": "https://www.gabriela.nyc",
+    "opening_hours": "Th-Sa 21:00-24:00+, Su 15:00-22:00"
+   },
+   "namedetails": {
+    "name": "Gabriela"
+   },
+   "boundingbox": [
+    "40.7216538",
+    "40.7217538",
+    "-73.9583038",
+    "-73.9582038"
+   ]
+  },
+  "moved_km": 3.6
+ },
+ "p1a7mpfe": {
+  "title": "HALL",
+  "address_text": "17 W. 20th Street, New York, NY 10011",
+  "pick": "address",
+  "hit": {
+   "place_id": 419335587,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 13916540944,
+   "lat": "40.7403317",
+   "lon": "-73.9921930",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Premier Shōjin",
+   "display_name": "Premier Shōjin, 17, West 20th Street, Flatiron District, Manhattan Community Board 5, Manhattan, New York County, New York, 10011, United States",
+   "address": {
+    "amenity": "Premier Shōjin",
+    "house_number": "17",
+    "road": "West 20th Street",
+    "neighbourhood": "Flatiron District",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10011",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "boundingbox": [
+    "40.7402817",
+    "40.7403817",
+    "-73.9922430",
+    "-73.9921430"
+   ]
+  },
+  "moved_km": 2.85
+ },
+ "p1wbrujq": {
+  "title": "HiLot",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 419768639,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 4159335689,
+   "lat": "40.7238715",
+   "lon": "-73.9788249",
+   "category": "amenity",
+   "type": "bar",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "HiLot",
+   "display_name": "HiLot, 102, Avenue C, Alphabet City, Manhattan Community Board 3, Manhattan, New York County, New York, 10009, United States",
+   "address": {
+    "amenity": "HiLot",
+    "house_number": "102",
+    "road": "Avenue C",
+    "neighbourhood": "Alphabet City",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10009",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "website": "https://hilot.nyc",
+    "opening_hours": "Tu-Sa 18:00-01:00"
+   },
+   "namedetails": {
+    "name": "HiLot",
+    "name:en": "HiLot",
+    "alt_name": "Hi Lottie"
+   },
+   "boundingbox": [
+    "40.7238215",
+    "40.7239215",
+    "-73.9788749",
+    "-73.9787749"
+   ]
+  },
+  "moved_km": 1.96
+ },
+ "pze820h": {
+  "title": "Le Dive",
+  "address_text": "37 Canal St, New York, NY 10002",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 359342555,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 2567561003,
+   "lat": "40.7147362",
+   "lon": "-73.9909568",
+   "category": "amenity",
+   "type": "bar",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Le Dive",
+   "display_name": "Le Dive, 37, Canal Street, Two Bridges, Manhattan Community Board 3, Manhattan, New York County, New York, 10002, United States",
+   "address": {
+    "amenity": "Le Dive",
+    "house_number": "37",
+    "road": "Canal Street",
+    "neighbourhood": "Two Bridges",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10002",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "opening_hours": "Mo-Su 12:00-24:00"
+   },
+   "namedetails": {
+    "name": "Le Dive"
+   },
+   "boundingbox": [
+    "40.7146862",
+    "40.7147862",
+    "-73.9910068",
+    "-73.9909068"
+   ]
+  },
+  "moved_km": 8.63
+ },
+ "p17r73an": {
+  "title": "Lei",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 422495537,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 9735398749,
+   "lat": "40.7145482",
+   "lon": "-73.9981894",
+   "category": "amenity",
+   "type": "bar",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Lei",
+   "display_name": "Lei, 15, Doyers Street, Five Points, Manhattan Community Board 3, Manhattan, New York County, New York, 10013, United States",
+   "address": {
+    "amenity": "Lei",
+    "house_number": "15",
+    "road": "Doyers Street",
+    "neighbourhood": "Five Points",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10013",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "cuisine": "chinese",
+    "website": "https://leiwine.nyc",
+    "bar:type": "wine_bar",
+    "capacity": "28",
+    "drink:beer": "yes",
+    "drink:wine": "yes",
+    "opening_hours": "Mo-Su 17:00-23:00",
+    "air_conditioning": "yes",
+    "contact:facebook": "https://www.facebook.com/people/Lei-Wine/61575935843817/"
+   },
+   "namedetails": {
+    "name": "Lei"
+   },
+   "boundingbox": [
+    "40.7144982",
+    "40.7145982",
+    "-73.9982394",
+    "-73.9981394"
+   ]
+  },
+  "moved_km": 4.74
+ },
+ "p1sdr61x": {
+  "title": "Little Ned",
+  "address_text": "10 W 28th St, New York, NY 10001",
+  "pick": "address",
+  "hit": {
+   "place_id": 359789430,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 248143620,
+   "lat": "40.7448890",
+   "lon": "-73.9882334",
+   "category": "building",
+   "type": "yes",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "building",
+   "name": "",
+   "display_name": "10, West 28th Street, NoMad, Manhattan Community Board 5, Manhattan, New York County, New York, 10001, United States",
+   "address": {
+    "house_number": "10",
+    "road": "West 28th Street",
+    "neighbourhood": "NoMad",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10001",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "boundingbox": [
+    "40.7447410",
+    "40.7449800",
+    "-73.9883494",
+    "-73.9881404"
+   ]
+  },
+  "moved_km": 2.17
+ },
+ "pm3daza": {
+  "title": "Little Sister Lounge"
+ },
+ "p19zcray": {
+  "title": "Lucky 13 Saloon",
+  "address_text": "13 Saloon 644 Sackett St, Brooklyn, NY 11217"
+ },
+ "p1l94jj6": {
+  "title": "Moonflower"
+ },
+ "p143yth3": {
+  "title": "Mr. Melo",
+  "address_text": "61 Withers St, Brooklyn, NY 11211",
+  "pick": "address",
+  "hit": {
+   "place_id": 359030053,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 280075406,
+   "lat": "40.7170187",
+   "lon": "-73.9501000",
+   "category": "building",
+   "type": "yes",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "building",
+   "name": "",
+   "display_name": "61, Withers Street, Williamsburg, Brooklyn, Kings County, New York, 11211, United States",
+   "address": {
+    "house_number": "61",
+    "road": "Withers Street",
+    "quarter": "Williamsburg",
+    "suburb": "Brooklyn",
+    "city_district": "Kings County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "11211",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "boundingbox": [
+    "40.7169373",
+    "40.7171607",
+    "-73.9501661",
+    "-73.9500439"
+   ]
+  },
+  "moved_km": 4.89
+ },
+ "p4prpy5": {
+  "title": "NBetween"
+ },
+ "p1wrvh3s": {
+  "title": "Paul's Cocktail Lounge"
+ },
+ "pjjwc9a": {
+  "title": "Peak Lounge Bar"
+ },
+ "p1iuevz5": {
+  "title": "Pearl Box",
+  "address_text": "357 W Broadway, New York, NY 10013",
+  "pick": "address",
+  "hit": {
+   "place_id": 357072719,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 249664332,
+   "lat": "40.7228997",
+   "lon": "-74.0029880",
+   "category": "building",
+   "type": "yes",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "building",
+   "name": "",
+   "display_name": "357, West Broadway, Little Italy, Lower Manhattan, Manhattan, New York County, New York, 10013, United States",
+   "address": {
+    "house_number": "357",
+    "road": "West Broadway",
+    "neighbourhood": "Little Italy",
+    "quarter": "Lower Manhattan",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10013",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "boundingbox": [
+    "40.7228168",
+    "40.7229869",
+    "-74.0031360",
+    "-74.0028486"
+   ]
+  },
+  "moved_km": 3.83
+ },
+ "p1w67a7": {
+  "title": "Reception Bar",
+  "address_text": "45 Orchard Street, New York, NY 10002",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 360172042,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 250268196,
+   "lat": "40.7163474",
+   "lon": "-73.9913466",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Reception Bar",
+   "display_name": "Reception Bar, 45, Orchard Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, New York, 10002, United States",
+   "address": {
+    "amenity": "Reception Bar",
+    "house_number": "45",
+    "road": "Orchard Street",
+    "neighbourhood": "Lower East Side",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10002",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "height": "23.0",
+    "building": "yes",
+    "nycdoitt:bin": "1003993"
+   },
+   "namedetails": {
+    "name": "Reception Bar"
+   },
+   "boundingbox": [
+    "40.7162726",
+    "40.7164222",
+    "-73.9914659",
+    "-73.9912274"
+   ]
+  },
+  "moved_km": 8.73
+ },
+ "p1qy5bi": {
+  "title": "Saint Tuesday",
+  "address_text": "24 Cortlandt Alley, New York, NY 10013",
+  "pick": "address",
+  "hit": {
+   "place_id": 402648271,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 46332297,
+   "lat": "40.7178868",
+   "lon": "-74.0023485",
+   "category": "place",
+   "type": "house",
+   "place_rank": 30,
+   "importance": 9.99999999995449e-06,
+   "addresstype": "place",
+   "name": "",
+   "display_name": "24, Cortlandt Alley, Little Italy, Lower Manhattan, Manhattan, New York County, New York, 10013, United States",
+   "address": {
+    "house_number": "24",
+    "road": "Cortlandt Alley",
+    "neighbourhood": "Little Italy",
+    "quarter": "Lower Manhattan",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10013",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "boundingbox": [
+    "40.7178368",
+    "40.7179368",
+    "-74.0023985",
+    "-74.0022985"
+   ]
+  },
+  "moved_km": 5.7
+ },
+ "p1i8b3p": {
+  "title": "Sauced",
+  "address_text": "331 Bedford Ave, Brooklyn, NY 11211",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 359183983,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 10775859280,
+   "lat": "40.7126451",
+   "lon": "-73.9623269",
+   "category": "amenity",
+   "type": "bar",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Sauced",
+   "display_name": "Sauced, 331, Bedford Avenue, Williamsburg, Brooklyn, Kings County, New York, 11211, United States",
+   "address": {
+    "amenity": "Sauced",
+    "house_number": "331",
+    "road": "Bedford Avenue",
+    "quarter": "Williamsburg",
+    "suburb": "Brooklyn",
+    "city_district": "Kings County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "11211",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "phone": "+1-347-695-6286",
+    "brewery": "no",
+    "min_age": "21",
+    "website": "https://www.saucedbklyn.com/",
+    "description": "A trendy wine bar with a wide selection of natural wines and outdoor seating.",
+    "opening_hours": "Mo-Th 17:00-26:00, Fr 16:00-26:00, Sa-Su 15:00-26:00",
+    "outdoor_seating": "yes"
+   },
+   "namedetails": {
+    "name": "Sauced"
+   },
+   "boundingbox": [
+    "40.7125951",
+    "40.7126951",
+    "-73.9623769",
+    "-73.9622769"
+   ]
+  },
+  "moved_km": 4.95
+ },
+ "p1vh8srs": {
+  "title": "schmuck.",
+  "address_text": "97 1st Ave, New York, NY 10009",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 356322714,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 12982612201,
+   "lat": "40.7263913",
+   "lon": "-73.9864117",
+   "category": "amenity",
+   "type": "bar",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Schmuck",
+   "display_name": "Schmuck, 97, 1st Avenue, East Village, Manhattan Community Board 3, Manhattan, New York County, New York, 10009, United States",
+   "address": {
+    "amenity": "Schmuck",
+    "house_number": "97",
+    "road": "1st Avenue",
+    "neighbourhood": "East Village",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10009",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "phone": "+1-917-797-2602",
+    "website": "https://www.schmucknyc.com/",
+    "opening_hours": "Tu-Su 16:00-01:00",
+    "contact:instagram": "schmuckordie"
+   },
+   "namedetails": {
+    "name": "Schmuck"
+   },
+   "boundingbox": [
+    "40.7263413",
+    "40.7264413",
+    "-73.9864617",
+    "-73.9863617"
+   ]
+  },
+  "moved_km": 3.0
+ },
+ "p1ci80qn": {
+  "title": "South Soho Bar",
+  "address_text": "191 Center St, New York, NY 10013",
+  "pick": "address",
+  "hit": {
+   "place_id": 402456659,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 588173269,
+   "lat": "40.5717097",
+   "lon": "-74.1413711",
+   "category": "place",
+   "type": "house",
+   "place_rank": 30,
+   "importance": 9.99999999995449e-06,
+   "addresstype": "place",
+   "name": "",
+   "display_name": "191, Center Street, Staten Island, Richmond County, New York, 10306, United States",
+   "address": {
+    "house_number": "191",
+    "road": "Center Street",
+    "suburb": "Staten Island",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10306",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "boundingbox": [
+    "40.5716597",
+    "40.5717597",
+    "-74.1414211",
+    "-74.1413211"
+   ]
+  },
+  "moved_km": 22.42
+ },
+ "p16a9uqx": {
+  "title": "St Jardim",
+  "address_text": "183 W 10th St, New York, NY 10014",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 353539939,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 10885671406,
+   "lat": "40.7343508",
+   "lon": "-74.0028751",
+   "category": "amenity",
+   "type": "bar",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "St. Jardim",
+   "display_name": "St. Jardim, West 10th Street, West Village, Manhattan, New York County, New York, 10014, United States",
+   "address": {
+    "amenity": "St. Jardim",
+    "road": "West 10th Street",
+    "neighbourhood": "West Village",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10014",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": null,
+   "namedetails": {
+    "name": "St. Jardim"
+   },
+   "boundingbox": [
+    "40.7343008",
+    "40.7344008",
+    "-74.0029251",
+    "-74.0028251"
+   ]
+  },
+  "moved_km": 3.97
+ },
+ "p90963r": {
+  "title": "Superbueno",
+  "address_text": "13 1st Ave, New York, NY 10003",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 359221700,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 12319918269,
+   "lat": "40.7234538",
+   "lon": "-73.9885506",
+   "category": "amenity",
+   "type": "bar",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Superbueno",
+   "display_name": "Superbueno, 13, 1st Avenue, Manhattan Community Board 3, Manhattan, New York County, New York, 10003, United States",
+   "address": {
+    "amenity": "Superbueno",
+    "house_number": "13",
+    "road": "1st Avenue",
+    "neighbourhood": "Manhattan Community Board 3",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10003",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "phone": "+1-347-866-7739",
+    "cuisine": "mexican",
+    "website": "https://superbuenonyc.com",
+    "description": "Mexican-American cocktail bar with beer, wine, non-alcoholic cocktails, and a substantial food menu",
+    "happy_hours": "Mo-Th 16:00-19:00, Fr 14:00-19:00",
+    "opening_hours": "Mo-Th 16:00-02:00, Fr-Su 14:00-02:00"
+   },
+   "namedetails": {
+    "name": "Superbueno"
+   },
+   "boundingbox": [
+    "40.7234038",
+    "40.7235038",
+    "-73.9886006",
+    "-73.9885006"
+   ]
+  },
+  "moved_km": 1.98
+ },
+ "p123sr7n": {
+  "title": "Swan Room",
+  "address_text": "9 Orchard Street, New York, NY 10002",
+  "pick": "address",
+  "hit": {
+   "place_id": 360303857,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 2826494990,
+   "lat": "40.7147829",
+   "lon": "-73.9920610",
+   "category": "place",
+   "type": "house",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "place",
+   "name": "",
+   "display_name": "9, Orchard Street, Two Bridges, Manhattan Community Board 3, Manhattan, New York County, New York, 10002, United States",
+   "address": {
+    "house_number": "9",
+    "road": "Orchard Street",
+    "neighbourhood": "Two Bridges",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10002",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "boundingbox": [
+    "40.7147329",
+    "40.7148329",
+    "-73.9921110",
+    "-73.9920110"
+   ]
+  },
+  "moved_km": 3.75
+ },
+ "pb444fn": {
+  "title": "The Blond"
+ },
+ "pzpj62s": {
+  "title": "The Lavaux"
+ },
+ "p1f0fqtg": {
+  "title": "The Mulberry",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 357068337,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1096389358,
+   "lat": "40.7329664",
+   "lon": "-74.1685913",
+   "category": "leisure",
+   "type": "park",
+   "place_rank": 24,
+   "importance": 0.08007057221332109,
+   "addresstype": "park",
+   "name": "Mulberry Commons",
+   "display_name": "Mulberry Commons, The Ironbound, Newark, Essex County, New Jersey, United States",
+   "address": {
+    "park": "Mulberry Commons",
+    "village": "The Ironbound",
+    "city": "Newark",
+    "county": "Essex County",
+    "state": "New Jersey",
+    "ISO3166-2-lvl4": "US-NJ",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": null,
+   "namedetails": {
+    "name": "Mulberry Commons"
+   },
+   "boundingbox": [
+    "40.7323706",
+    "40.7335113",
+    "-74.1699951",
+    "-74.1671771"
+   ]
+  },
+  "moved_km": 14.13
+ },
+ "p1egtrlz": {
+  "title": "The Tusk Bar",
+  "address_text": "7 E 27th St, New York, NY 10016",
+  "pick": "address",
+  "hit": {
+   "place_id": 359203065,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 248143642,
+   "lat": "40.7440135",
+   "lon": "-73.9869451",
+   "category": "tourism",
+   "type": "hotel",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "tourism",
+   "name": "The Evelyn",
+   "display_name": "The Evelyn, 7, East 27th Street, Rose Hill, Manhattan Community Board 5, Manhattan, New York County, New York, 10016, United States",
+   "address": {
+    "tourism": "The Evelyn",
+    "house_number": "7",
+    "road": "East 27th Street",
+    "neighbourhood": "Rose Hill",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10016",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "boundingbox": [
+    "40.7438283",
+    "40.7441126",
+    "-73.9871447",
+    "-73.9868323"
+   ]
+  },
+  "moved_km": 2.4
+ },
+ "p1pbaysv": {
+  "title": "The Water Tower Bar"
+ },
+ "p10zdqab": {
+  "title": "Wiggle Room",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 359082071,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 10874836805,
+   "lat": "40.7226149",
+   "lon": "-73.9862173",
+   "category": "amenity",
+   "type": "nightclub",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Wiggle Room",
+   "display_name": "Wiggle Room, 9, Avenue A, Alphabet City, Manhattan Community Board 3, Manhattan, New York County, New York, 10009, United States",
+   "address": {
+    "amenity": "Wiggle Room",
+    "house_number": "9",
+    "road": "Avenue A",
+    "neighbourhood": "Alphabet City",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10009",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "website": "https://www.wiggleroom.bar/",
+    "opening_hours": "Th-Sa 20:00-04:00"
+   },
+   "namedetails": {
+    "name": "Wiggle Room"
+   },
+   "boundingbox": [
+    "40.7225649",
+    "40.7226649",
+    "-73.9862673",
+    "-73.9861673"
+   ]
+  },
+  "moved_km": 2.35
+ },
+ "p12u0gje": {
+  "title": "American Museum of Natural History",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 358457429,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 388436810,
+   "lat": "40.7811007",
+   "lon": "-73.9742362",
+   "category": "tourism",
+   "type": "museum",
+   "place_rank": 30,
+   "importance": 0.6010060026353796,
+   "addresstype": "tourism",
+   "name": "American Museum of Natural History",
+   "display_name": "American Museum of Natural History, 200, Central Park West, Upper West Side, Manhattan Community Board 7, Manhattan, New York County, New York, 10024, United States",
+   "address": {
+    "tourism": "American Museum of Natural History",
+    "house_number": "200",
+    "road": "Central Park West",
+    "quarter": "Upper West Side",
+    "neighbourhood": "Manhattan Community Board 7",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10024",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "fee": "yes",
+    "layer": "1",
+    "phone": "+1 212-769-5100",
+    "height": "46",
+    "website": "https://www.amnh.org/",
+    "building": "museum",
+    "wikidata": "Q217717",
+    "wikipedia": "en:American Museum of Natural History",
+    "start_date": "1869-04-06",
+    "wheelchair": "yes",
+    "description": "The American Museum of Natural History is a natural history museum on the Upper West Side of Manhattan in New York City. In Theodore Roosevelt Park, across the street from Central Park, the museum complex comprises 26 interconnected buildings.",
+    "payment:visa": "yes",
+    "opening_hours": "Mo-Su 10:00-17:30",
+    "building:levels": "5",
+    "internet_access": "wlan",
+    "air_conditioning": "yes",
+    "payment:mastercard": "yes",
+    "toilets:wheelchair": "yes",
+    "internet_access:fee": "no"
+   },
+   "namedetails": {
+    "name": "American Museum of Natural History",
+    "name:cs": "Americké přírodovědné muzeum",
+    "name:en": "American Museum of Natural History",
+    "name:es": "Museo Americano de Historia Natural",
+    "name:fr": "Muséum américain d'histoire naturelle",
+    "name:he": "המוזיאון האמריקאי לתולדות הטבע",
+    "name:it": "Museo americano di storia naturale",
+    "name:ja": "アメリカ自然史博物館",
+    "name:ko": "미국 자연사 박물관",
+    "name:nl": "Amerikaans Museum van Natuurlijke Geschiedenis",
+    "name:pl": "Amerykańskie Muzeum Historii Naturalnej",
+    "name:pt": "Museu Americano de História Natural",
+    "name:ru": "Американский музей естественной истории",
+    "name:uk": "Американський музей природознавства",
+    "name:zh": "自然历史博物馆",
+    "alt_name:cs": "Americké přírodopisné muzeum",
+    "alt_name:es": "Museo Americano de Historia Natural"
+   },
+   "boundingbox": [
+    "40.7800328",
+    "40.7821645",
+    "-73.9757936",
+    "-73.9726284"
+   ]
+  },
+  "moved_km": 0.9
+ },
+ "p1ho9w3w": {
+  "title": "1915 Lanzhou Hand Pulled Noodles",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 358972250,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 5265742302,
+   "lat": "40.7406194",
+   "lon": "-73.9812508",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "1915 Lanzhou Hand-Pulled Noodles & Dumplings",
+   "display_name": "1915 Lanzhou Hand-Pulled Noodles & Dumplings, 207, East 26th Street, Kips Bay, Manhattan Community Board 6, Manhattan, New York County, New York, 10016, United States",
+   "address": {
+    "amenity": "1915 Lanzhou Hand-Pulled Noodles & Dumplings",
+    "house_number": "207",
+    "road": "East 26th Street",
+    "neighbourhood": "Kips Bay",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10016",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "phone": "+1-917-828-7384",
+    "cuisine": "chinese",
+    "website": "https://www.1915lanzhounoodles.com/",
+    "takeaway": "yes",
+    "wheelchair": "no",
+    "website:menu": "https://www.1915lanzhounoodles.com/menu/",
+    "opening_hours": "Mo,We-Su 10:30-21:00",
+    "outdoor_seating": "no",
+    "toilets:wheelchair": "no"
+   },
+   "namedetails": {
+    "name": "1915 Lanzhou Hand-Pulled Noodles & Dumplings"
+   },
+   "boundingbox": [
+    "40.7405694",
+    "40.7406694",
+    "-73.9813008",
+    "-73.9812008"
+   ]
+  },
+  "moved_km": 3.29
+ },
+ "prq2dyf": {
+  "title": "7th Street Burger",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 427420057,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 14182107802,
+   "lat": "40.7441238",
+   "lon": "-73.9952586",
+   "category": "amenity",
+   "type": "fast_food",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "7th Street Burger",
+   "display_name": "7th Street Burger, West 23rd Street, Chelsea District, Manhattan Community Board 4, Manhattan, New York County, New York, 10001, United States",
+   "address": {
+    "amenity": "7th Street Burger",
+    "road": "West 23rd Street",
+    "neighbourhood": "Chelsea District",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10001",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": null,
+   "namedetails": {
+    "name": "7th Street Burger"
+   },
+   "boundingbox": [
+    "40.7440738",
+    "40.7441738",
+    "-73.9953086",
+    "-73.9952086"
+   ]
+  },
+  "moved_km": 0.7
+ },
+ "p1njksbh": {
+  "title": "7th Street Burger East Village",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 356887656,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 9708208979,
+   "lat": "40.7269257",
+   "lon": "-73.9853696",
+   "category": "amenity",
+   "type": "fast_food",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "7th Street burger",
+   "display_name": "7th Street burger, 91, East 7th Street, East Village, Manhattan Community Board 3, Manhattan, New York County, New York, 10009, United States",
+   "address": {
+    "amenity": "7th Street burger",
+    "house_number": "91",
+    "road": "East 7th Street",
+    "neighbourhood": "East Village",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10009",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "cuisine": "burger",
+    "website": "https://www.7thstreetburger.com/",
+    "delivery": "yes",
+    "takeaway": "only",
+    "check_date": "2024-11-23",
+    "drive_through": "no",
+    "opening_hours": "Mo-We 16:00-23:00; Th 16:00-02:00; Fr 16:00-03:00; Sa 12:00-03:00; Su 12:00-22:00"
+   },
+   "namedetails": {
+    "name": "7th Street burger"
+   },
+   "boundingbox": [
+    "40.7268757",
+    "40.7269757",
+    "-73.9854196",
+    "-73.9853196"
+   ]
+  },
+  "moved_km": 4.45
+ },
+ "p12qe8em": {
+  "title": "A Taste of Katz's"
+ },
+ "pzpu5hw": {
+  "title": "Apollo Bagels",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 419381404,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 2549932986,
+   "lat": "40.7430766",
+   "lon": "-73.9803340",
+   "category": "amenity",
+   "type": "fast_food",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Apollo Bagels",
+   "display_name": "Apollo Bagels, 416, 3rd Avenue, Kips Bay, Manhattan Community Board 6, Manhattan, New York County, New York, 10016, United States",
+   "address": {
+    "amenity": "Apollo Bagels",
+    "house_number": "416",
+    "road": "3rd Avenue",
+    "neighbourhood": "Kips Bay",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10016",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "branch": "Kips Bay",
+    "cuisine": "bagel",
+    "website": "https://apollobagels.com/",
+    "catering": "yes",
+    "takeaway": "yes",
+    "opening_hours": "Mo-Th 07:00-15:00, Fr-Su 07:00-17:00"
+   },
+   "namedetails": {
+    "name": "Apollo Bagels"
+   },
+   "boundingbox": [
+    "40.7430266",
+    "40.7431266",
+    "-73.9803840",
+    "-73.9802840"
+   ]
+  },
+  "moved_km": 1.18
+ },
+ "pww0xkd": {
+  "title": "ARIARI",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 355706493,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 4492691093,
+   "lat": "40.7272468",
+   "lon": "-73.9857900",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Ariari",
+   "display_name": "Ariari, 119, 1st Avenue, East Village, Manhattan Community Board 3, Manhattan, New York County, New York, 10003, United States",
+   "address": {
+    "amenity": "Ariari",
+    "house_number": "119",
+    "road": "1st Avenue",
+    "neighbourhood": "East Village",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10003",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "phone": "+1-646-422-7466",
+    "cuisine": "korean",
+    "website": "https://ariarinyc.com",
+    "check_date": "2024-11-08",
+    "opening_hours": "Mo-Th 17:00-23:00; Fr 17:00-24:00; Sa 16:30-24:00; Su 16:30-23:00"
+   },
+   "namedetails": {
+    "name": "Ariari"
+   },
+   "boundingbox": [
+    "40.7271968",
+    "40.7272968",
+    "-73.9858400",
+    "-73.9857400"
+   ]
+  },
+  "moved_km": 3.11
+ },
+ "p1em6wd5": {
+  "title": "Bamonte's",
+  "err2": "'lat'"
+ },
+ "p1fu56xr": {
+  "title": "Bánh",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 360316716,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 2761663412,
+   "lat": "40.8008545",
+   "lon": "-73.9656397",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Bánh Shop House",
+   "display_name": "Bánh Shop House, 942, Amsterdam Avenue, Manhattan Valley, Manhattan Community Board 7, Manhattan, New York County, New York, 10025, United States",
+   "address": {
+    "amenity": "Bánh Shop House",
+    "house_number": "942",
+    "road": "Amsterdam Avenue",
+    "neighbourhood": "Manhattan Valley",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10025",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "email": "banhvny@gmail.com",
+    "cuisine": "vietnamese",
+    "website": "https://banhny.com",
+    "opening_hours": "Mo off; Tu-Th 16:00-21:00; Fr-Su 12:00-21:00",
+    "contact:instagram": "https://www.instagram.com/banhnyc/",
+    "opening_hours:signed": "no",
+    "check_date:opening_hours": "2026-05-14"
+   },
+   "namedetails": {
+    "name": "Bánh Shop House"
+   },
+   "boundingbox": [
+    "40.8008045",
+    "40.8009045",
+    "-73.9656897",
+    "-73.9655897"
+   ]
+  },
+  "moved_km": 5.24
+ },
+ "pk3s6ws": {
+  "title": "Barbalu Bklyn"
+ },
+ "p2dc6qm": {
+  "title": "Benjamin Steakhouse"
+ },
+ "puaofb3": {
+  "title": "Bernie’s"
+ },
+ "pdi6u9p": {
+  "title": "Brown Bag Sandwich Co",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 360408152,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 4515566074,
+   "lat": "40.7420199",
+   "lon": "-73.9930416",
+   "category": "amenity",
+   "type": "fast_food",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Brown Bag Sandwich Shop",
+   "display_name": "Brown Bag Sandwich Shop, 64, West 22nd Street, Flatiron District, Manhattan Community Board 5, Manhattan, New York County, New York, 10010, United States",
+   "address": {
+    "amenity": "Brown Bag Sandwich Shop",
+    "house_number": "64",
+    "road": "West 22nd Street",
+    "neighbourhood": "Flatiron District",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10010",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "phone": "+1-646-657-0090",
+    "branch": "Flatiron",
+    "cuisine": "sandwich",
+    "website": "https://www.brownbagny.com/flatiron",
+    "catering": "yes",
+    "delivery": "yes",
+    "takeaway": "yes",
+    "opening_hours": "Mo-Fr 10:00-20:00, Sa-Su 10:30-18:30",
+    "diet:vegetarian": "yes",
+    "diet:gluten_free": "yes"
+   },
+   "namedetails": {
+    "name": "Brown Bag Sandwich Shop"
+   },
+   "boundingbox": [
+    "40.7419699",
+    "40.7420699",
+    "-73.9930916",
+    "-73.9929916"
+   ]
+  },
+  "moved_km": 2.87
+ },
+ "p1g35gfa": {
+  "title": "Carnitas Ramirez",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 359163100,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 3819486905,
+   "lat": "40.7224776",
+   "lon": "-73.9827650",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Carnitas Ramirez",
+   "display_name": "Carnitas Ramirez, 210, East 3rd Street, Village View Houses, Manhattan Community Board 3, Manhattan, New York County, New York, 10009, United States",
+   "address": {
+    "amenity": "Carnitas Ramirez",
+    "house_number": "210",
+    "road": "East 3rd Street",
+    "residential": "Village View Houses",
+    "neighbourhood": "Manhattan Community Board 3",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10009",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "cuisine": "mexican",
+    "check_date": "2026-08-31",
+    "opening_hours": "We-Su 12:00-21:00",
+    "check_date:opening_hours": "2026-08-31"
+   },
+   "namedetails": {
+    "name": "Carnitas Ramirez"
+   },
+   "boundingbox": [
+    "40.7224276",
+    "40.7225276",
+    "-73.9828150",
+    "-73.9827150"
+   ]
+  },
+  "moved_km": 3.36
+ },
+ "p170ks9r": {
+  "title": "Casino",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 358855027,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 5193274490,
+   "lat": "40.7139367",
+   "lon": "-73.9896705",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Casino",
+   "display_name": "Casino, 171, East Broadway, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, New York, 10002, United States",
+   "address": {
+    "amenity": "Casino",
+    "house_number": "171",
+    "road": "East Broadway",
+    "neighbourhood": "Lower East Side",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10002",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "phone": "+1-646-848-0101",
+    "cuisine": "french;italian",
+    "website": "https://www.casinonyc.info/",
+    "opening_hours": "Tu-Sa 17:00-24:00"
+   },
+   "namedetails": {
+    "name": "Casino"
+   },
+   "boundingbox": [
+    "40.7138867",
+    "40.7139867",
+    "-73.9897205",
+    "-73.9896205"
+   ]
+  },
+  "moved_km": 3.68
+ },
+ "pmdsr87": {
+  "title": "Cecily",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 358939923,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 12730434026,
+   "lat": "40.7273016",
+   "lon": "-73.9570039",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Cecily",
+   "display_name": "Cecily, 80, Franklin Street, Greenpoint, Brooklyn, Kings County, New York, 11222, United States",
+   "address": {
+    "amenity": "Cecily",
+    "house_number": "80",
+    "road": "Franklin Street",
+    "neighbourhood": "Greenpoint",
+    "suburb": "Brooklyn",
+    "city_district": "Kings County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "11222",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "email": "info@cecilybk.com",
+    "website": "https://www.cecilybk.com",
+    "opening_hours": "Su 11:30-14:30,17:30-22:00; Mo-Th 17:30-22:00; Fr 17:00-23:00; Sa 11:30-14:30,17:00-23:00"
+   },
+   "namedetails": {
+    "name": "Cecily"
+   },
+   "boundingbox": [
+    "40.7272516",
+    "40.7273516",
+    "-73.9570539",
+    "-73.9569539"
+   ]
+  },
+  "moved_km": 5.36
+ },
+ "p1rrigf2": {
+  "title": "Chang Lai"
+ },
+ "p1t15q7s": {
+  "title": "Charles Pan-Fried Chicken",
+  "address_text": "2461 Frederick Douglass Blvd, New York, NY 10027",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 358961831,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 2768128864,
+   "lat": "40.8235771",
+   "lon": "-73.9440803",
+   "category": "amenity",
+   "type": "fast_food",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Charles Pan-Fried Chicken",
+   "display_name": "Charles Pan-Fried Chicken, 340, West 145th Street, Hamilton Heights, Manhattan Community Board 9, Manhattan, New York County, New York, 10030, United States",
+   "address": {
+    "amenity": "Charles Pan-Fried Chicken",
+    "house_number": "340",
+    "road": "West 145th Street",
+    "neighbourhood": "Hamilton Heights",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10030",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "phone": "+1-212-281-1800",
+    "cuisine": "chicken;soul_food",
+    "website": "https://www.charlespanfriedchicken.com",
+    "opening_hours": "Mo-Th 11:00-22:00; Fr-Sa 11:00-23:00; Su 11:00-23:00"
+   },
+   "namedetails": {
+    "name": "Charles Pan-Fried Chicken"
+   },
+   "boundingbox": [
+    "40.8235271",
+    "40.8236271",
+    "-73.9441303",
+    "-73.9440303"
+   ]
+  },
+  "moved_km": 7.15
+ },
+ "p1qij1pg": {
+  "title": "Chez Fifi"
+ },
+ "p1q2683j": {
+  "title": "Chongqing Lao Zao 重慶老灶"
+ },
+ "p13npzmz": {
+  "title": "Chubby Skewers | Authentic Chinese BBQ"
+ },
+ "p196drit": {
+  "title": "COTE 550"
+ },
+ "p1i6iwi9": {
+  "title": "Cozy Soup & Burger"
+ },
+ "p138gz2j": {
+  "title": "Famous Sichuan 川外川",
+  "address_text": "10 Pell St, New York, NY 10013",
+  "pick": "address",
+  "hit": {
+   "place_id": 359825595,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 250266930,
+   "lat": "40.7148613",
+   "lon": "-73.9975829",
+   "category": "building",
+   "type": "yes",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "building",
+   "name": "",
+   "display_name": "10, Pell Street, Five Points, Manhattan Community Board 3, Manhattan, New York County, New York, 10013, United States",
+   "address": {
+    "house_number": "10",
+    "road": "Pell Street",
+    "neighbourhood": "Five Points",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10013",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "boundingbox": [
+    "40.7147700",
+    "40.7149629",
+    "-73.9976785",
+    "-73.9974879"
+   ]
+  },
+  "moved_km": 0.0
+ },
+ "p1k658dc": {
+  "title": "Felix Empanadas",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 360259968,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 13568423501,
+   "lat": "40.7221731",
+   "lon": "-73.9880406",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Felix’s Handmade Empanadas",
+   "display_name": "Felix’s Handmade Empanadas, 192, Orchard Street, Manhattan Community Board 3, Manhattan, New York County, New York, 10002, United States",
+   "address": {
+    "amenity": "Felix’s Handmade Empanadas",
+    "house_number": "192",
+    "road": "Orchard Street",
+    "neighbourhood": "Manhattan Community Board 3",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10002",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "cuisine": "argentinian",
+    "website": "https://www.felixempanadas.com/",
+    "opening_hours": "Mo-Su 12:00-22:00"
+   },
+   "namedetails": {
+    "name": "Felix’s Handmade Empanadas"
+   },
+   "boundingbox": [
+    "40.7221231",
+    "40.7222231",
+    "-73.9880906",
+    "-73.9879906"
+   ]
+  },
+  "moved_km": 3.45
+ },
+ "p1ssqnuw": {
+  "title": "Fumo Upper East Side"
+ },
+ "p8bs91x": {
+  "title": "Gallagher’s Steakhouse NYC"
+ },
+ "p1ilckhq": {
+  "title": "I am Kimchi"
+ },
+ "p1vnflwb": {
+  "title": "I Cavallini"
+ },
+ "pz9ltyk": {
+  "title": "IBN Hamido Seafood"
+ },
+ "pwar8hq": {
+  "title": "Isabelle's Osteria"
+ },
+ "p5qq63w": {
+  "title": "Jing Feng Fish Ball Inc."
+ },
+ "p1hmija7": {
+  "title": "Jing Fong",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 359696330,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 2555098016,
+   "lat": "40.7188891",
+   "lon": "-73.9990644",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Jing Fong",
+   "display_name": "Jing Fong, 202, Centre Street, Little Italy, Lower Manhattan, Manhattan, New York County, New York, 10013, United States",
+   "address": {
+    "amenity": "Jing Fong",
+    "house_number": "202",
+    "road": "Centre Street",
+    "neighbourhood": "Little Italy",
+    "quarter": "Lower Manhattan",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10013",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "phone": "+1-212-964-5256",
+    "cuisine": "chinese",
+    "website": "https://jingfongny.com/",
+    "opening_hours": "Mo-Su 10:30-21:00",
+    "diet:non-vegetarian": "yes"
+   },
+   "namedetails": {
+    "name": "Jing Fong",
+    "name:en": "Jing Fong",
+    "name:zh": "金豐"
+   },
+   "boundingbox": [
+    "40.7188391",
+    "40.7189391",
+    "-73.9991144",
+    "-73.9990144"
+   ]
+  },
+  "moved_km": 5.14
+ },
+ "p1r48t3v": {
+  "title": "JoJo by Jean-Georges"
+ },
+ "p2jwtpl": {
+  "title": "Jubilee Marketplace (Supermarket)",
+  "address_text": "145 West St, Brooklyn, NY 11222",
+  "pick": "address",
+  "hit": {
+   "place_id": 359791655,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 2843008348,
+   "lat": "40.7321228",
+   "lon": "-73.9598155",
+   "category": "place",
+   "type": "house",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "place",
+   "name": "",
+   "display_name": "145, West Street, Greenpoint, Brooklyn, Kings County, New York, 11222, United States",
+   "address": {
+    "house_number": "145",
+    "road": "West Street",
+    "neighbourhood": "Greenpoint",
+    "suburb": "Brooklyn",
+    "city_district": "Kings County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "11222",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "boundingbox": [
+    "40.7320728",
+    "40.7321728",
+    "-73.9598655",
+    "-73.9597655"
+   ]
+  },
+  "moved_km": 3.91
+ },
+ "p1lwuz03": {
+  "title": "Katz's Delicatessen",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 361922373,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 1915398676,
+   "lat": "40.7223431",
+   "lon": "-73.9873530",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 0.41783763285244574,
+   "addresstype": "amenity",
+   "name": "Katz's Delicatessen",
+   "display_name": "Katz's Delicatessen, 205, East Houston Street, Manhattan Community Board 3, Manhattan, New York County, New York, 10002, United States",
+   "address": {
+    "amenity": "Katz's Delicatessen",
+    "house_number": "205",
+    "road": "East Houston Street",
+    "neighbourhood": "Manhattan Community Board 3",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10002",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "phone": "+1-212-254-2246",
+    "cuisine": "deli",
+    "website": "https://www.katzsdelicatessen.com",
+    "wikidata": "Q2611788",
+    "wikipedia": "en:Katz's Delicatessen",
+    "diet:kosher": "yes",
+    "reservation": "yes",
+    "payment:cash": "yes",
+    "opening_hours": "Mo-Th 08:00-22:15; Fr 08:00-24:00; Sa 00:00-24:00; Su 00:00-22:15",
+    "contact:twitter": "https://twitter.com/KatzsDeli",
+    "contact:facebook": "https://www.facebook.com/katzsdeli",
+    "contact:instagram": "https://www.instagram.com/katzsdeli/",
+    "payment:credit_cards": "yes"
+   },
+   "namedetails": {
+    "name": "Katz's Delicatessen",
+    "name:en": "Katz's Delicatessen",
+    "alt_name": "Katz's of New York City",
+    "short_name": "Katz's Deli"
+   },
+   "boundingbox": [
+    "40.7222931",
+    "40.7223931",
+    "-73.9874030",
+    "-73.9873030"
+   ]
+  },
+  "moved_km": 0.68
+ },
+ "pumry1l": {
+  "title": "King Dumplings"
+ },
+ "p11nd509": {
+  "title": "KOMA Sushi"
+ },
+ "p1se9al7": {
+  "title": "Le Gratin",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 358889451,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 4849652021,
+   "lat": "40.7112644",
+   "lon": "-74.0066645",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Le Gratin",
+   "display_name": "Le Gratin, 5, Beekman Street, Tribeca, Lower Manhattan, Manhattan, New York County, New York, 10000, United States",
+   "address": {
+    "amenity": "Le Gratin",
+    "house_number": "5",
+    "road": "Beekman Street",
+    "neighbourhood": "Tribeca",
+    "quarter": "Lower Manhattan",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10000",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "indoor_seating": "yes",
+    "outdoor_seating": "no"
+   },
+   "namedetails": {
+    "name": "Le Gratin"
+   },
+   "boundingbox": [
+    "40.7112144",
+    "40.7113144",
+    "-74.0067145",
+    "-74.0066145"
+   ]
+  },
+  "moved_km": 7.1
+ },
+ "p6n0wb6": {
+  "title": "Le Pavillon"
+ },
+ "p2nleg0": {
+  "title": "Lim’s Kitchen",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 359036495,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 3620488531,
+   "lat": "40.7487201",
+   "lon": "-73.9738553",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Lim’s Kitchen",
+   "display_name": "Lim’s Kitchen, 242, East 40th Street, Tudor City, Manhattan Community Board 6, Manhattan, New York County, New York, 10016, United States",
+   "address": {
+    "amenity": "Lim’s Kitchen",
+    "house_number": "242",
+    "road": "East 40th Street",
+    "neighbourhood": "Tudor City",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10016",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "phone": "+1-646-410-0448",
+    "cuisine": "chinese",
+    "opening_hours": "Su 11:00-22:00; Mo-Th 11:00-23:00; Fr, Sa 11:00-00:00"
+   },
+   "namedetails": {
+    "name": "Lim’s Kitchen"
+   },
+   "boundingbox": [
+    "40.7486701",
+    "40.7487701",
+    "-73.9739053",
+    "-73.9738053"
+   ]
+  },
+  "moved_km": 3.22
+ },
+ "pc927wd": {
+  "title": "Los Tacos Hermanos",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 355011373,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 10090538378,
+   "lat": "40.7213158",
+   "lon": "-74.0048984",
+   "category": "amenity",
+   "type": "fast_food",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Los Tacos Hermanos",
+   "display_name": "Los Tacos Hermanos, West Broadway, SoHo, Lower Manhattan, Manhattan, New York County, New York, 10013, United States",
+   "address": {
+    "amenity": "Los Tacos Hermanos",
+    "road": "West Broadway",
+    "neighbourhood": "SoHo",
+    "quarter": "Lower Manhattan",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10013",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "cuisine": "mexican",
+    "smoking": "no",
+    "website": "https://lostacosny.com/",
+    "capacity": "10",
+    "highchair": "no",
+    "wheelchair": "limited",
+    "drive_through": "no",
+    "outdoor_seating": "no",
+    "air_conditioning": "yes"
+   },
+   "namedetails": {
+    "name": "Los Tacos Hermanos"
+   },
+   "boundingbox": [
+    "40.7212658",
+    "40.7213658",
+    "-74.0049484",
+    "-74.0048484"
+   ]
+  },
+  "moved_km": 1.81
+ },
+ "p5moo1i": {
+  "title": "Lucia Pizza Of SoHo",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 358094708,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 2562442598,
+   "lat": "40.7213965",
+   "lon": "-74.0043967",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Lucia Pizza",
+   "display_name": "Lucia Pizza, 375, Canal Street, Little Italy, Lower Manhattan, Manhattan, New York County, New York, 10013, United States",
+   "address": {
+    "amenity": "Lucia Pizza",
+    "house_number": "375",
+    "road": "Canal Street",
+    "neighbourhood": "Little Italy",
+    "quarter": "Lower Manhattan",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10013",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "phone": "+1 917 965-2900",
+    "cuisine": "italian_pizza",
+    "opening_hours": "Mo-Su 11:00-22:00"
+   },
+   "namedetails": {
+    "name": "Lucia Pizza"
+   },
+   "boundingbox": [
+    "40.7213465",
+    "40.7214465",
+    "-74.0044467",
+    "-74.0043467"
+   ]
+  },
+  "moved_km": 2.62
+ },
+ "p1qmmxox": {
+  "title": "Lupetto"
+ },
+ "p5baxcn": {
+  "title": "Maki Kosaka",
+  "address_text": "55 W 19th St, New York, NY 10011",
+  "pick": "address",
+  "hit": {
+   "place_id": 361666757,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 264645785,
+   "lat": "40.7403216",
+   "lon": "-73.9937903",
+   "category": "building",
+   "type": "yes",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "building",
+   "name": "",
+   "display_name": "55, West 19th Street, Chelsea District, Manhattan Community Board 5, Manhattan, New York County, New York, 10011, United States",
+   "address": {
+    "house_number": "55",
+    "road": "West 19th Street",
+    "neighbourhood": "Chelsea District",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10011",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "boundingbox": [
+    "40.7402126",
+    "40.7404478",
+    "-73.9938999",
+    "-73.9936547"
+   ]
+  },
+  "moved_km": 1.41
+ },
+ "p1oeklga": {
+  "title": "Mariscos El Submarino",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 359905520,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 11870170730,
+   "lat": "40.7332567",
+   "lon": "-73.9580020",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Mariscos El Submarino",
+   "display_name": "Mariscos El Submarino, 222, Franklin Street, Greenpoint, Brooklyn, Kings County, New York, 11222, United States",
+   "address": {
+    "amenity": "Mariscos El Submarino",
+    "house_number": "222",
+    "road": "Franklin Street",
+    "neighbourhood": "Greenpoint",
+    "suburb": "Brooklyn",
+    "city_district": "Kings County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "11222",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "phone": "+1-347-384-2422",
+    "cuisine": "mexican",
+    "website": "https://www.mariscoselsubmarinonyc.com/",
+    "check_date": "2026-10-09"
+   },
+   "namedetails": {
+    "name": "Mariscos El Submarino"
+   },
+   "boundingbox": [
+    "40.7332067",
+    "40.7333067",
+    "-73.9580520",
+    "-73.9579520"
+   ]
+  },
+  "moved_km": 3.16
+ },
+ "p7bzqxg": {
+  "title": "Michael’s"
+ },
+ "pezwq5u": {
+  "title": "Monkey Bar",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 357032478,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 6966448551,
+   "lat": "40.7406797",
+   "lon": "-74.0084922",
+   "category": "amenity",
+   "type": "bar",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Brass Monkey",
+   "display_name": "Brass Monkey, 55, Little West 12th Street, Meatpacking District, Manhattan, New York County, New York, 10014, United States",
+   "address": {
+    "amenity": "Brass Monkey",
+    "house_number": "55",
+    "road": "Little West 12th Street",
+    "neighbourhood": "Meatpacking District",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10014",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "phone": "+1 212 675 6686",
+    "brewery": "yes",
+    "website": "https://brassmonkeynyc.com/",
+    "opening_hours": "Mo-Su 11:00-04:00",
+    "outdoor_seating": "yes",
+    "air_conditioning": "yes"
+   },
+   "namedetails": {
+    "name": "Brass Monkey"
+   },
+   "boundingbox": [
+    "40.7406297",
+    "40.7407297",
+    "-74.0085422",
+    "-74.0084422"
+   ]
+  },
+  "moved_km": 3.68
+ },
+ "pclq5ab": {
+  "title": "Monte's Trattoria"
+ },
+ "p8c9lrw": {
+  "title": "Moono",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 359184849,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 368043718,
+   "lat": "40.7463679",
+   "lon": "-73.9833563",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Moono",
+   "display_name": "Moono, East 32nd Street, Koreatown, Manhattan Community Board 5, Manhattan, New York County, New York, 10016, United States",
+   "address": {
+    "amenity": "Moono",
+    "road": "East 32nd Street",
+    "neighbourhood": "Koreatown",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10016",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "phone": "+1-646-429-8309",
+    "cuisine": "korean",
+    "website": "https://www.moononyc.com",
+    "cocktails": "yes",
+    "drink:beer": "yes",
+    "drink:wine": "yes",
+    "happy_hours": "Mo 17:00-19:00, Th-Su 17:00-19:00",
+    "drink:liquor": "yes",
+    "opening_hours": "Mo-Su 10:00-22:30"
+   },
+   "namedetails": {
+    "name": "Moono"
+   },
+   "boundingbox": [
+    "40.7463179",
+    "40.7464179",
+    "-73.9834063",
+    "-73.9833063"
+   ]
+  },
+  "moved_km": 3.77
+ },
+ "p1g6v61z": {
+  "title": "More Than Fries",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 358699630,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 13073355752,
+   "lat": "40.6642622",
+   "lon": "-73.9242303",
+   "category": "amenity",
+   "type": "fast_food",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "More Than Fries",
+   "display_name": "More Than Fries, 1077, Rutland Road, Brooklyn Community District 17, Brooklyn, Kings County, New York, 11212, United States",
+   "address": {
+    "amenity": "More Than Fries",
+    "house_number": "1077",
+    "road": "Rutland Road",
+    "neighbourhood": "Brooklyn Community District 17",
+    "suburb": "Brooklyn",
+    "city_district": "Kings County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "11212",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "website": "https://morethanfries.com",
+    "payment:ebt": "yes"
+   },
+   "namedetails": {
+    "name": "More Than Fries"
+   },
+   "boundingbox": [
+    "40.6642122",
+    "40.6643122",
+    "-73.9242803",
+    "-73.9241803"
+   ]
+  },
+  "moved_km": 7.65
+ },
+ "pchtb85": {
+  "title": "Nan Xiang Soup Dumplings - East Village"
+ },
+ "pfmclhd": {
+  "title": "Nenes Taqueria"
+ },
+ "pp3bmgf": {
+  "title": "Nowon East Village"
+ },
+ "p1gvs9jo": {
+  "title": "Nubeluz",
+  "address_text": "25 W 28th St, New York, NY 10001",
+  "pick": "address",
+  "hit": {
+   "place_id": 361782142,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 788269399,
+   "lat": "40.7456720",
+   "lon": "-73.9889563",
+   "category": "tourism",
+   "type": "hotel",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "tourism",
+   "name": "The Ritz-Carlton",
+   "display_name": "The Ritz-Carlton, 25, West 28th Street, NoMad, Manhattan Community Board 5, Manhattan, New York County, New York, 10001, United States",
+   "address": {
+    "tourism": "The Ritz-Carlton",
+    "house_number": "25",
+    "road": "West 28th Street",
+    "neighbourhood": "NoMad",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10001",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "boundingbox": [
+    "40.7454325",
+    "40.7459147",
+    "-73.9893603",
+    "-73.9887887"
+   ]
+  },
+  "moved_km": 3.78
+ },
+ "p1cmwytq": {
+  "title": "NURA"
+ },
+ "pm34hb7": {
+  "title": "OKDONGSIK New York",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 359136400,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 10650625205,
+   "lat": "40.7457045",
+   "lon": "-73.9853710",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Okdongsik",
+   "display_name": "Okdongsik, 13, East 30th Street, Koreatown, Manhattan Community Board 5, Manhattan, New York County, New York, 10016, United States",
+   "address": {
+    "amenity": "Okdongsik",
+    "house_number": "13",
+    "road": "East 30th Street",
+    "neighbourhood": "Koreatown",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10016",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "email": "okdongsik@handhospitality.com",
+    "level": "1",
+    "phone": "+1-929-237-8164",
+    "cuisine": "korean",
+    "website": "https://www.handhospitality.com/okdongsik",
+    "start_date": "2022-11",
+    "reservation": "yes",
+    "opening_hours": "Mo off; Tu-Su 11:00-14:30,17:00-21:00",
+    "website:booking": "https://resy.com/cities/ny/okdongsik",
+    "contact:instagram": "okdongsik"
+   },
+   "namedetails": {
+    "name": "Okdongsik"
+   },
+   "boundingbox": [
+    "40.7456545",
+    "40.7457545",
+    "-73.9854210",
+    "-73.9853210"
+   ]
+  },
+  "moved_km": 1.73
+ },
+ "p1nek4v1": {
+  "title": "Panna II Garden Indian Restaurant",
+  "address_text": "93 1st Ave, New York, NY 10003",
+  "pick": "address",
+  "hit": {
+   "place_id": 359141924,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 241829612,
+   "lat": "40.7262893",
+   "lon": "-73.9865727",
+   "category": "building",
+   "type": "apartments",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "building",
+   "name": "",
+   "display_name": "93, 1st Avenue, East Village, Manhattan Community Board 3, Manhattan, New York County, New York, 10003, United States",
+   "address": {
+    "house_number": "93",
+    "road": "1st Avenue",
+    "neighbourhood": "East Village",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10003",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "boundingbox": [
+    "40.7262239",
+    "40.7263547",
+    "-73.9866794",
+    "-73.9864661"
+   ]
+  },
+  "moved_km": 0.01
+ },
+ "p1c5z3zj": {
+  "title": "Pizza Loves Sauce",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 355551671,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 11036037905,
+   "lat": "40.7230597",
+   "lon": "-73.9897166",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Pizza Loves Sauce",
+   "display_name": "Pizza Loves Sauce, 147, East Houston Street, Manhattan Community Board 3, Manhattan, New York County, New York, 10002, United States",
+   "address": {
+    "amenity": "Pizza Loves Sauce",
+    "house_number": "147",
+    "road": "East Houston Street",
+    "neighbourhood": "Manhattan Community Board 3",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10002",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "cuisine": "pizza",
+    "check_date": "2024-11-22"
+   },
+   "namedetails": {
+    "name": "Pizza Loves Sauce"
+   },
+   "boundingbox": [
+    "40.7230097",
+    "40.7231097",
+    "-73.9897666",
+    "-73.9896666"
+   ]
+  },
+  "moved_km": 2.51
+ },
+ "phmsant": {
+  "title": "Roscioli NYC",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 358480298,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 12729059749,
+   "lat": "40.7277245",
+   "lon": "-74.0025523",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Roscioli NYC",
+   "display_name": "Roscioli NYC, 43, MacDougal Street, University Village, Manhattan, New York County, New York, 10012, United States",
+   "address": {
+    "amenity": "Roscioli NYC",
+    "house_number": "43",
+    "road": "MacDougal Street",
+    "neighbourhood": "University Village",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10012",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "cuisine": "italian",
+    "website": "https://rosciolinyc.com/"
+   },
+   "namedetails": {
+    "name": "Roscioli NYC"
+   },
+   "boundingbox": [
+    "40.7276745",
+    "40.7277745",
+    "-74.0026023",
+    "-74.0025023"
+   ]
+  },
+  "moved_km": 3.46
+ },
+ "pr39598": {
+  "title": "Saigon Vietnamese Sandwich Deli",
+  "address_text": "5224 8th Ave, Brooklyn, NY 11220",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 427943623,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 14181050737,
+   "lat": "40.6396018",
+   "lon": "-74.0054978",
+   "category": "amenity",
+   "type": "fast_food",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Saigon Vietnamese Sandwich Deli",
+   "display_name": "Saigon Vietnamese Sandwich Deli, 5224, 8th Avenue, Dyker Heights, Brooklyn, Kings County, New York, 11220, United States",
+   "address": {
+    "amenity": "Saigon Vietnamese Sandwich Deli",
+    "house_number": "5224",
+    "road": "8th Avenue",
+    "neighbourhood": "Dyker Heights",
+    "suburb": "Brooklyn",
+    "city_district": "Kings County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "11220",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "phone": "+1-646-204-2494",
+    "cuisine": "sandwich"
+   },
+   "namedetails": {
+    "name": "Saigon Vietnamese Sandwich Deli"
+   },
+   "boundingbox": [
+    "40.6395518",
+    "40.6396518",
+    "-74.0055478",
+    "-74.0054478"
+   ]
+  },
+  "moved_km": 8.98
+ },
+ "p1eunm20": {
+  "title": "Saranrom Thai",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 355624868,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 11252049831,
+   "lat": "40.7431492",
+   "lon": "-73.8836526",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Saranrom Thai",
+   "display_name": "Saranrom Thai, 81-10, Broadway, Elmhurst, Queens, Queens County, New York, 11373, United States",
+   "address": {
+    "amenity": "Saranrom Thai",
+    "house_number": "81-10",
+    "road": "Broadway",
+    "quarter": "Elmhurst",
+    "suburb": "Queens",
+    "county": "Queens County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "11373",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "cuisine": "thai",
+    "check_date": "2026-10-01"
+   },
+   "namedetails": {
+    "name": "Saranrom Thai"
+   },
+   "boundingbox": [
+    "40.7430992",
+    "40.7431992",
+    "-73.8837026",
+    "-73.8836026"
+   ]
+  },
+  "moved_km": 3.26
+ },
+ "pv90y2g": {
+  "title": "Scarpetta"
+ },
+ "p5re9hk": {
+  "title": "Semma",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 357029230,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 10994970405,
+   "lat": "40.7360072",
+   "lon": "-74.0005291",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Semma",
+   "display_name": "Semma, Greenwich Avenue, Greenwich Village, Manhattan, New York County, New York, 10011, United States",
+   "address": {
+    "amenity": "Semma",
+    "road": "Greenwich Avenue",
+    "neighbourhood": "Greenwich Village",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10011",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "cuisine": "indian",
+    "opening_hours": "Tu-Su 17:00-22:00"
+   },
+   "namedetails": {
+    "name": "Semma"
+   },
+   "boundingbox": [
+    "40.7359572",
+    "40.7360572",
+    "-74.0005791",
+    "-74.0004791"
+   ]
+  },
+  "moved_km": 1.31
+ },
+ "potmi9f": {
+  "title": "Sendo",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 359011874,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 2703449326,
+   "lat": "40.7479225",
+   "lon": "-73.9889275",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Sendo",
+   "display_name": "Sendo, 876 2nd Floor, 6th Avenue, Koreatown, Manhattan Community Board 5, Manhattan, New York County, New York, 10001, United States",
+   "address": {
+    "amenity": "Sendo",
+    "house_number": "876 2nd Floor",
+    "road": "6th Avenue",
+    "neighbourhood": "Koreatown",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10001",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "phone": "+1-646-943-4548",
+    "website": "https://sendo.nyc/",
+    "description": "Sushi restaurant",
+    "opening_hours": "Mo-Th, Su 17:00-22:00; Mo-Su 11:30-15:00; Fr, Sa 17:00-23:00"
+   },
+   "namedetails": {
+    "name": "Sendo"
+   },
+   "boundingbox": [
+    "40.7478725",
+    "40.7479725",
+    "-73.9889775",
+    "-73.9888775"
+   ]
+  },
+  "moved_km": 1.85
+ },
+ "pq9r1nn": {
+  "title": "SEOUL SALON NYC",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 360182451,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 10908978409,
+   "lat": "40.7483075",
+   "lon": "-73.9866107",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Seoul Salon",
+   "display_name": "Seoul Salon, 28, West 33rd Street, Herald Square, Manhattan Community Board 5, Manhattan, New York County, New York, 10001, United States",
+   "address": {
+    "amenity": "Seoul Salon",
+    "house_number": "28",
+    "road": "West 33rd Street",
+    "neighbourhood": "Herald Square",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10001",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "bar": "yes",
+    "cuisine": "korean",
+    "website": "https://seoulsalon.nyc",
+    "cocktails": "yes",
+    "drink:liquor": "yes",
+    "opening_hours": "Tu-Th 17:00-24:00; Fr-Sa 17:00-01:00"
+   },
+   "namedetails": {
+    "name": "Seoul Salon"
+   },
+   "boundingbox": [
+    "40.7482575",
+    "40.7483575",
+    "-73.9866607",
+    "-73.9865607"
+   ]
+  },
+  "moved_km": 3.04
+ },
+ "p2z1jdp": {
+  "title": "Shinpi Omakase"
+ },
+ "p1srtvuu": {
+  "title": "Smith & Wollensky",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 359113586,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 1346386984,
+   "lat": "40.7552548",
+   "lon": "-73.9709515",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 0.2809844805284867,
+   "addresstype": "amenity",
+   "name": "Smith & Wollensky",
+   "display_name": "Smith & Wollensky, 797, 3rd Avenue, Turtle Bay, Manhattan Community Board 6, Manhattan, New York County, New York, 10022, United States",
+   "address": {
+    "amenity": "Smith & Wollensky",
+    "house_number": "797",
+    "road": "3rd Avenue",
+    "neighbourhood": "Turtle Bay",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10022",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "bar": "yes",
+    "phone": "+1-212-753-1530",
+    "branch": "NYC",
+    "cuisine": "steak_house",
+    "smoking": "no",
+    "website": "https://www.smithandwollenskynyc.com/",
+    "delivery": "yes",
+    "takeaway": "yes",
+    "wikidata": "Q2295313",
+    "wikipedia": "en:Smith & Wollensky",
+    "start_date": "1977",
+    "wheelchair": "yes",
+    "reservation": "yes",
+    "payment:cash": "yes",
+    "opening_hours": "Mo-Fr 11:45-14:00, 17:00-23:00; Sa-Su 17:00-23:00",
+    "outdoor_seating": "yes",
+    "air_conditioning": "yes",
+    "payment:contactless": "yes",
+    "payment:debit_cards": "yes",
+    "payment:credit_cards": "yes"
+   },
+   "namedetails": {
+    "name": "Smith & Wollensky"
+   },
+   "boundingbox": [
+    "40.7552048",
+    "40.7553048",
+    "-73.9710015",
+    "-73.9709015"
+   ]
+  },
+  "moved_km": 3.8
+ },
+ "pajsv6": {
+  "title": "Son del North",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 363052280,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 12657573701,
+   "lat": "40.7217779",
+   "lon": "-73.9884756",
+   "category": "amenity",
+   "type": "fast_food",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Son del North",
+   "display_name": "Son del North, 177, Orchard Street, Manhattan Community Board 3, Manhattan, New York County, New York, 10002, United States",
+   "address": {
+    "amenity": "Son del North",
+    "house_number": "177",
+    "road": "Orchard Street",
+    "neighbourhood": "Manhattan Community Board 3",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10002",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "email": "info@sondelnorth.com",
+    "phone": "+1-718-521-2447",
+    "branch": "Lower East Side",
+    "cuisine": "mexican",
+    "website": "https://sondelnorth.com/",
+    "delivery": "yes",
+    "takeaway": "only",
+    "website:menu": "https://sondelnorth.com/menu",
+    "opening_hours": "Mo-We 11:00-22:00; Th-Sa 11:00-00:00; Su 11:00-19:00",
+    "contact:facebook": "sondelnorth",
+    "contact:instagram": "sondelnorth"
+   },
+   "namedetails": {
+    "name": "Son del North"
+   },
+   "boundingbox": [
+    "40.7217279",
+    "40.7218279",
+    "-73.9885256",
+    "-73.9884256"
+   ]
+  },
+  "moved_km": 2.92
+ },
+ "p3enqzi": {
+  "title": "Son del North",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 359175441,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 12657573701,
+   "lat": "40.7217779",
+   "lon": "-73.9884756",
+   "category": "amenity",
+   "type": "fast_food",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Son del North",
+   "display_name": "Son del North, 177, Orchard Street, Manhattan Community Board 3, Manhattan, New York County, New York, 10002, United States",
+   "address": {
+    "amenity": "Son del North",
+    "house_number": "177",
+    "road": "Orchard Street",
+    "neighbourhood": "Manhattan Community Board 3",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10002",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "email": "info@sondelnorth.com",
+    "phone": "+1-718-521-2447",
+    "branch": "Lower East Side",
+    "cuisine": "mexican",
+    "website": "https://sondelnorth.com/",
+    "delivery": "yes",
+    "takeaway": "only",
+    "website:menu": "https://sondelnorth.com/menu",
+    "opening_hours": "Mo-We 11:00-22:00; Th-Sa 11:00-00:00; Su 11:00-19:00",
+    "contact:facebook": "sondelnorth",
+    "contact:instagram": "sondelnorth"
+   },
+   "namedetails": {
+    "name": "Son del North"
+   },
+   "boundingbox": [
+    "40.7217279",
+    "40.7218279",
+    "-73.9885256",
+    "-73.9884256"
+   ]
+  },
+  "moved_km": 3.65
+ },
+ "pmi4f5l": {
+  "title": "SourAji",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 359487089,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 12496732774,
+   "lat": "40.7222329",
+   "lon": "-73.9831367",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "SourAji",
+   "display_name": "SourAji, 23, Avenue B, Alphabet City, Manhattan Community Board 3, Manhattan, New York County, New York, 10009, United States",
+   "address": {
+    "amenity": "SourAji",
+    "house_number": "23",
+    "road": "Avenue B",
+    "neighbourhood": "Alphabet City",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10009",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "cuisine": "sushi",
+    "check_date": "2025-01-12",
+    "indoor_seating": "yes",
+    "outdoor_seating": "no"
+   },
+   "namedetails": {
+    "name": "SourAji"
+   },
+   "boundingbox": [
+    "40.7221829",
+    "40.7222829",
+    "-73.9831867",
+    "-73.9830867"
+   ]
+  },
+  "moved_km": 3.04
+ },
+ "plepaee": {
+  "title": "Stretch Pizza"
+ },
+ "pi1tg8r": {
+  "title": "Taku Sando",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 355649703,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 280140756,
+   "lat": "40.7298551",
+   "lon": "-73.9596471",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Taku Sando",
+   "display_name": "Taku Sando, 29, Greenpoint Avenue, Greenpoint, Brooklyn, Kings County, New York, 11222, United States",
+   "address": {
+    "amenity": "Taku Sando",
+    "house_number": "29",
+    "road": "Greenpoint Avenue",
+    "neighbourhood": "Greenpoint",
+    "suburb": "Brooklyn",
+    "city_district": "Kings County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "11222",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "phone": "+1-347-294-0461",
+    "height": "10.9",
+    "website": "https://www.takusando.com/",
+    "building": "yes",
+    "nycdoitt:bin": "3064667",
+    "opening_hours": "Mo-Su 11:30-20:00"
+   },
+   "namedetails": {
+    "name": "Taku Sando"
+   },
+   "boundingbox": [
+    "40.7297886",
+    "40.7299215",
+    "-73.9596948",
+    "-73.9595994"
+   ]
+  },
+  "moved_km": 1.89
+ },
+ "p1t3s126": {
+  "title": "Temakase Hand Roll Bar - 28th St"
+ },
+ "p1ano75z": {
+  "title": "Thai Market",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 359177208,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 12757767518,
+   "lat": "40.7445584",
+   "lon": "-73.9034671",
+   "category": "shop",
+   "type": "convenience",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "shop",
+   "name": "3 Aunties Thai Market",
+   "display_name": "3 Aunties Thai Market, 40-08, 61st Street, Woodside, Queens, Queens County, New York, 11377, United States",
+   "address": {
+    "shop": "3 Aunties Thai Market",
+    "house_number": "40-08",
+    "road": "61st Street",
+    "quarter": "Woodside",
+    "suburb": "Queens",
+    "county": "Queens County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "11377",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "level": "0",
+    "phone": "+1-718-440-8586",
+    "branch": "Second Location",
+    "website": "https://3auntiesthaimarket.com/",
+    "instagram": "@3auntiesthaimarket",
+    "opening_hours": "Mo-Su 10:00-20:00",
+    "contact:facebook": "https://www.facebook.com/3AuntiesThaiMarket/"
+   },
+   "namedetails": {
+    "name": "3 Aunties Thai Market"
+   },
+   "boundingbox": [
+    "40.7445084",
+    "40.7446084",
+    "-73.9035171",
+    "-73.9034171"
+   ]
+  },
+  "moved_km": 8.18
+ },
+ "p1wvzy7x": {
+  "title": "The Halal Guys",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 356886760,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 3676953898,
+   "lat": "40.7322882",
+   "lon": "-73.9844226",
+   "category": "amenity",
+   "type": "fast_food",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "The Halal Guys",
+   "display_name": "The Halal Guys, 307, East 14th Street, East Village, Manhattan Community Board 6, Manhattan, New York County, New York, 10003, United States",
+   "address": {
+    "amenity": "The Halal Guys",
+    "house_number": "307",
+    "road": "East 14th Street",
+    "neighbourhood": "East Village",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10003",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "phone": "+1-212-533-7707",
+    "cuisine": "chicken;falafel;gyros",
+    "website": "https://east14thstreetny.thehalalguys.com",
+    "delivery": "yes",
+    "takeaway": "yes",
+    "diet:halal": "yes",
+    "opening_hours": "Mo-Su 10:00-04:00",
+    "brand:wikidata": "Q10846129",
+    "check_date:opening_hours": "2021-05-07"
+   },
+   "namedetails": {
+    "name": "The Halal Guys",
+    "brand": "The Halal Guys",
+    "name:en": "The Halal Guys"
+   },
+   "boundingbox": [
+    "40.7322382",
+    "40.7323382",
+    "-73.9844726",
+    "-73.9843726"
+   ]
+  },
+  "moved_km": 1.64
+ },
+ "p1tnogjc": {
+  "title": "The Long Hall Pub & Grocery"
+ },
+ "poqg159": {
+  "title": "The Nines",
+  "address_text": "9 Great Jones St, New York, NY 10012",
+  "pick": "address",
+  "hit": {
+   "place_id": 360553482,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 247842940,
+   "lat": "40.7272258",
+   "lon": "-73.9940546",
+   "category": "building",
+   "type": "apartments",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "building",
+   "name": "",
+   "display_name": "9, Great Jones Street, NoHo, Manhattan, New York County, New York, 10012, United States",
+   "address": {
+    "house_number": "9",
+    "road": "Great Jones Street",
+    "neighbourhood": "NoHo",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10012",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "boundingbox": [
+    "40.7270843",
+    "40.7273472",
+    "-73.9941926",
+    "-73.9939289"
+   ]
+  },
+  "moved_km": 0.83
+ },
+ "phs2s6h": {
+  "title": "The Snail"
+ },
+ "pap165o": {
+  "title": "Tsumo Omakase",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 372883673,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 11530393583,
+   "lat": "40.7955912",
+   "lon": "-73.9694838",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Tsumo Omakase",
+   "display_name": "Tsumo Omakase, 782, West 98th Street, Manhattan Valley, Manhattan Community Board 7, Manhattan, New York County, New York, 10025, United States",
+   "address": {
+    "amenity": "Tsumo Omakase",
+    "house_number": "782",
+    "road": "West 98th Street",
+    "neighbourhood": "Manhattan Valley",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10025",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "cuisine": "japanese",
+    "website": "https://www.tsumony.com",
+    "check_date": "2025-03-30"
+   },
+   "namedetails": {
+    "name": "Tsumo Omakase"
+   },
+   "boundingbox": [
+    "40.7955412",
+    "40.7956412",
+    "-73.9695338",
+    "-73.9694338"
+   ]
+  },
+  "moved_km": 5.26
+ },
+ "p6sx5jp": {
+  "title": "Ume",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 358797334,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 5642678613,
+   "lat": "40.6740251",
+   "lon": "-73.9853643",
+   "category": "amenity",
+   "type": "kindergarten",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Ume Ume",
+   "display_name": "Ume Ume, 319, 4th Avenue, Park Slope, Brooklyn, Kings County, New York, 11215, United States",
+   "address": {
+    "amenity": "Ume Ume",
+    "house_number": "319",
+    "road": "4th Avenue",
+    "neighbourhood": "Park Slope",
+    "suburb": "Brooklyn",
+    "city_district": "Kings County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "11215",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "phone": "+1 718 768 0800",
+    "website": "https://www.umeumearts.com/"
+   },
+   "namedetails": {
+    "name": "Ume Ume"
+   },
+   "boundingbox": [
+    "40.6739751",
+    "40.6740751",
+    "-73.9854143",
+    "-73.9853143"
+   ]
+  },
+  "moved_km": 6.47
+ },
+ "p14cyqr0": {
+  "title": "Umeko"
+ },
+ "prwa3ev": {
+  "title": "Upside Pizza",
+  "address_text": "51 Spring St, New York, NY 10012",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 360311296,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 2547241666,
+   "lat": "40.7221019",
+   "lon": "-73.9964217",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Upside Pizza",
+   "display_name": "Upside Pizza, 51, Spring Street, Little Italy, Lower Manhattan, Manhattan, New York County, New York, 10012, United States",
+   "address": {
+    "amenity": "Upside Pizza",
+    "house_number": "51",
+    "road": "Spring Street",
+    "neighbourhood": "Little Italy",
+    "quarter": "Lower Manhattan",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10012",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "phone": "+19174092989",
+    "cuisine": "pizza",
+    "website": "https://www.upsidepizza.com/",
+    "check_date": "2024-11-22"
+   },
+   "namedetails": {
+    "name": "Upside Pizza"
+   },
+   "boundingbox": [
+    "40.7220519",
+    "40.7221519",
+    "-73.9964717",
+    "-73.9963717"
+   ]
+  },
+  "moved_km": 2.76
+ },
+ "p124qequ": {
+  "title": "Utshob Restaurant",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 356902863,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 2549928994,
+   "lat": "40.7273871",
+   "lon": "-73.9852333",
+   "category": "amenity",
+   "type": "fast_food",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Utshob Restaurant",
+   "display_name": "Utshob Restaurant, 130, 1st Avenue, East Village, Manhattan Community Board 3, Manhattan, New York County, New York, 10009, United States",
+   "address": {
+    "amenity": "Utshob Restaurant",
+    "house_number": "130",
+    "road": "1st Avenue",
+    "neighbourhood": "East Village",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10009",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "level": "0",
+    "cuisine": "indian",
+    "toilets": "yes",
+    "diet:halal": "yes",
+    "opening_hours": "Mo-Su 10:00-04:00"
+   },
+   "namedetails": {
+    "name": "Utshob Restaurant"
+   },
+   "boundingbox": [
+    "40.7273371",
+    "40.7274371",
+    "-73.9852833",
+    "-73.9851833"
+   ]
+  },
+  "moved_km": 1.92
+ },
+ "pvpvt6i": {
+  "title": "Via 13"
+ },
+ "p95u6pv": {
+  "title": "Wah Fung No.1 Fast Food"
+ },
+ "pnlf8b2": {
+  "title": "Wo Hop",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 360636984,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 2825288943,
+   "lat": "40.7142890",
+   "lon": "-73.9988678",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Wo-Hop",
+   "display_name": "Wo-Hop, 17, Mott Street, Five Points, Manhattan Community Board 3, Manhattan, New York County, New York, 10013, United States",
+   "address": {
+    "amenity": "Wo-Hop",
+    "house_number": "17",
+    "road": "Mott Street",
+    "neighbourhood": "Five Points",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10013",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "level": "-1",
+    "phone": "+1-212-962-8617",
+    "cuisine": "chinese",
+    "website": "https://www.wohop17.com",
+    "catering": "yes",
+    "takeaway": "yes",
+    "drink:beer": "yes",
+    "opening_hours": "Mo-Sa 10:30-22:00, Su 10:30-21:00"
+   },
+   "namedetails": {
+    "name": "Wo-Hop",
+    "name:en": "Wo-Hop",
+    "name:zh": "和合"
+   },
+   "boundingbox": [
+    "40.7142390",
+    "40.7143390",
+    "-73.9989178",
+    "-73.9988178"
+   ]
+  },
+  "moved_km": 4.92
+ },
+ "p1lhf73t": {
+  "title": "Xi'an Famous Foods 西安名吃 | Chinatown",
+  "address_text": "2 W. 45th St., New York, NY 10036",
+  "pick": "address",
+  "hit": {
+   "place_id": 359169217,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 12361444517,
+   "lat": "40.7553343",
+   "lon": "-73.9801488",
+   "category": "healthcare",
+   "type": "alternative",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "healthcare",
+   "name": "Lee Schwalb Acupuncture",
+   "display_name": "Lee Schwalb Acupuncture, 2, West 45th Street, Midtown, Manhattan Community Board 5, Manhattan, New York County, New York, 10036, United States",
+   "address": {
+    "healthcare": "Lee Schwalb Acupuncture",
+    "house_number": "2",
+    "road": "West 45th Street",
+    "quarter": "Midtown",
+    "neighbourhood": "Manhattan Community Board 5",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10036",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "boundingbox": [
+    "40.7552843",
+    "40.7553843",
+    "-73.9801988",
+    "-73.9800988"
+   ]
+  },
+  "moved_km": 4.7
+ },
+ "p1j66hhn": {
+  "title": "YUBU SoHo"
+ },
+ "pkpf384": {
+  "title": "DASHI OKUME Brooklyn",
+  "address_text": "50 Norman Ave, Brooklyn, NY 11222",
+  "pick": "address",
+  "hit": {
+   "place_id": 423583281,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 280118878,
+   "lat": "40.7246106",
+   "lon": "-73.9535900",
+   "category": "building",
+   "type": "retail",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "building",
+   "name": "",
+   "display_name": "50, Norman Avenue, Greenpoint, Brooklyn, Kings County, New York, 11222, United States",
+   "address": {
+    "house_number": "50",
+    "road": "Norman Avenue",
+    "neighbourhood": "Greenpoint",
+    "suburb": "Brooklyn",
+    "city_district": "Kings County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "11222",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "boundingbox": [
+    "40.7244694",
+    "40.7247518",
+    "-73.9538060",
+    "-73.9533740"
+   ]
+  },
+  "moved_km": 2.86
+ },
+ "p1l30op2": {
+  "title": "H Mart Manhattan"
+ },
+ "p14tzqpc": {
+  "title": "Happier Grocery",
+  "address_text": "365 Canal St, New York, NY 10013",
+  "pick": "address",
+  "hit": {
+   "place_id": 356133479,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 249664336,
+   "lat": "40.7212100",
+   "lon": "-74.0040147",
+   "category": "building",
+   "type": "yes",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "building",
+   "name": "",
+   "display_name": "365, Canal Street, Little Italy, Lower Manhattan, Manhattan, New York County, New York, 10013, United States",
+   "address": {
+    "house_number": "365",
+    "road": "Canal Street",
+    "neighbourhood": "Little Italy",
+    "quarter": "Lower Manhattan",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10013",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "boundingbox": [
+    "40.7211370",
+    "40.7212828",
+    "-74.0041090",
+    "-74.0039205"
+   ]
+  },
+  "moved_km": 5.75
+ },
+ "pv2grie": {
+  "title": "Jubilee Marketplace (Supermarket)",
+  "address_text": "145 West St, Brooklyn, NY 11222",
+  "pick": "address",
+  "hit": {
+   "place_id": 359791655,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 2843008348,
+   "lat": "40.7321228",
+   "lon": "-73.9598155",
+   "category": "place",
+   "type": "house",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "place",
+   "name": "",
+   "display_name": "145, West Street, Greenpoint, Brooklyn, Kings County, New York, 11222, United States",
+   "address": {
+    "house_number": "145",
+    "road": "West Street",
+    "neighbourhood": "Greenpoint",
+    "suburb": "Brooklyn",
+    "city_district": "Kings County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "11222",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "boundingbox": [
+    "40.7320728",
+    "40.7321728",
+    "-73.9598655",
+    "-73.9597655"
+   ]
+  },
+  "moved_km": 3.91
+ },
+ "p6chq0q": {
+  "title": "Soho Olive Branch Deli"
+ },
+ "p1nwmpxc": {
+  "title": "Old Mates Pub",
+  "address_text": "170 John St, New York, NY 10038",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 419552647,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 13924051472,
+   "lat": "40.7057900",
+   "lon": "-74.0041784",
+   "category": "amenity",
+   "type": "bar",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Old Mates Pub",
+   "display_name": "Old Mates Pub, 170, John Street, Seaport, Lower Manhattan, Manhattan, New York County, New York, 10038, United States",
+   "address": {
+    "amenity": "Old Mates Pub",
+    "house_number": "170",
+    "road": "John Street",
+    "neighbourhood": "Seaport",
+    "quarter": "Lower Manhattan",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10038",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "food": "yes",
+    "country": "US",
+    "website": "https://oldmates.com",
+    "description": "Australian Pub with a menu of Aussie beers, wine and cocktails along with classics like chicken parma, sausage rolls and burgers.",
+    "contact:email": "gday@oldmates.com",
+    "opening_hours": "Mo-Th 12:00-01:00; Fr-Sa 12:00-02:00; Su 12:00-23:00",
+    "indoor_seating": "yes",
+    "air_conditioning": "yes",
+    "contact:instagram": "oldmatespub"
+   },
+   "namedetails": {
+    "name": "Old Mates Pub"
+   },
+   "boundingbox": [
+    "40.7057400",
+    "40.7058400",
+    "-74.0042284",
+    "-74.0041284"
+   ]
+  },
+  "moved_km": 4.01
+ },
+ "p1su0id7": {
+  "title": "Rock and Soul DJ Equipment and Records"
+ },
+ "pysdboj": {
+  "title": "Village Revival Records"
+ },
+ "pbjqi7i": {
+  "title": "DUMBO Manhattan Bridge View"
+ },
+ "p1nefje1": {
+  "title": "Roosevelt Island Tramway",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 358981516,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 32946753,
+   "lat": "40.7612141",
+   "lon": "-73.9642226",
+   "category": "aerialway",
+   "type": "station",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "aerialway",
+   "name": "Roosevelt Island Tramway",
+   "display_name": "Roosevelt Island Tramway, 254, East 60th Street, Manhattan Community Board 8, Manhattan, New York County, New York, 10022, United States",
+   "address": {
+    "aerialway": "Roosevelt Island Tramway",
+    "house_number": "254",
+    "road": "East 60th Street",
+    "neighbourhood": "Manhattan Community Board 8",
+    "suburb": "Manhattan",
+    "city_district": "New York County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "10022",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "layer": "1",
+    "owner": "Roosevelt Island Operating Corporation",
+    "height": "19.6",
+    "building": "roof",
+    "operator": "Leitner-Poma of America",
+    "mapillary": "760351564662664",
+    "check_date": "2025-06-09",
+    "wheelchair": "yes",
+    "nycdoitt:bin": "1089287",
+    "opening_hours": "Su-Th 06:00-02:00; Fr,Sa 06:00-03:00",
+    "operator:type": "private",
+    "owner:wikidata": "Q7366460",
+    "aerialway:access": "both",
+    "public_transport": "station",
+    "operator:wikidata": "Q6520426"
+   },
+   "namedetails": {
+    "name": "Roosevelt Island Tramway"
+   },
+   "boundingbox": [
+    "40.7610733",
+    "40.7613365",
+    "-73.9643815",
+    "-73.9640640"
+   ]
+  },
+  "moved_km": 5.2
+ },
+ "p18aw3wb": {
+  "title": "All Blues"
+ },
+ "p168gpc7": {
+  "title": "Chelsea Music Hall"
+ },
+ "pm98a56": {
+  "title": "Elsewhere",
+  "address_text": "599 Johnson Ave, Brooklyn, NY 11237",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 360369669,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 279780209,
+   "lat": "40.7094772",
+   "lon": "-73.9232355",
+   "category": "amenity",
+   "type": "nightclub",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Elsewhere",
+   "display_name": "Elsewhere, 599, Johnson Avenue, Brooklyn, Kings County, New York, 11237, United States",
+   "address": {
+    "amenity": "Elsewhere",
+    "house_number": "599",
+    "road": "Johnson Avenue",
+    "suburb": "Brooklyn",
+    "city_district": "Kings County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "11237",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "email": "info@elsewherebrooklyn.com",
+    "height": "7.7",
+    "toilets": "yes",
+    "website": "http://elsewherebrooklyn.com/",
+    "building": "yes",
+    "wheelchair": "yes",
+    "description": "Live music venue, nightclub, and arts space in a converted industrial warehouse that hosts rooftop parties and emerging music talents.",
+    "happy_hours": "yes",
+    "nycdoitt:bin": "3070596",
+    "opening_hours": "Mo-Th, Su 17:00-26:00; Fr, Sa 17:00-28:00",
+    "internet_access": "wlan",
+    "toilets:wheelchair": "yes",
+    "internet_access:fee": "no"
+   },
+   "namedetails": {
+    "name": "Elsewhere"
+   },
+   "boundingbox": [
+    "40.7092995",
+    "40.7097427",
+    "-73.9235021",
+    "-73.9230244"
+   ]
+  },
+  "moved_km": 6.43
+ },
+ "p1v9j39s": {
+  "title": "OJAS Listening Room"
+ },
+ "p1vuttlm": {
+  "title": "Ornithology Jazz Club",
+  "address_text": "6 Suydam St, Brooklyn, NY 11221",
+  "pick": "osm-name",
+  "hit": {
+   "place_id": 358286441,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 6590061294,
+   "lat": "40.6955322",
+   "lon": "-73.9320225",
+   "category": "amenity",
+   "type": "bar",
+   "place_rank": 30,
+   "importance": 9.175936522464359e-05,
+   "addresstype": "amenity",
+   "name": "Ornithology Jazz Club",
+   "display_name": "Ornithology Jazz Club, 6, Suydam Street, Bushwick, Brooklyn, Kings County, New York, 11221, United States",
+   "address": {
+    "amenity": "Ornithology Jazz Club",
+    "house_number": "6",
+    "road": "Suydam Street",
+    "quarter": "Bushwick",
+    "suburb": "Brooklyn",
+    "city_district": "Kings County",
+    "city": "New York",
+    "state": "New York",
+    "ISO3166-2-lvl4": "US-NY",
+    "postcode": "11221",
+    "country": "United States",
+    "country_code": "us"
+   },
+   "extratags": {
+    "lgbtq": "welcome",
+    "phone": "+1-917-231-4766",
+    "website": "https://www.ornithologyjazzclub.com/",
+    "live_music": "yes",
+    "opening_hours": "Mo-Sa 18:00-02:00; Su 13:00-02:00"
+   },
+   "namedetails": {
+    "name": "Ornithology Jazz Club"
+   },
+   "boundingbox": [
+    "40.6954822",
+    "40.6955822",
+    "-73.9320725",
+    "-73.9319725"
+   ]
+  },
+  "moved_km": 8.69
+ },
+ "p8yw20q": {
+  "title": "Record Room"
+ },
+ "p1t7nmk5": {
+  "title": "Eliz Digital Inc."
+ },
+ "pwwdy2v": {
+  "title": "Old Friend Photobooth"
+ }
+}

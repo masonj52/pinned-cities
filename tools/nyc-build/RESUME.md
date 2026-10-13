@@ -17,7 +17,7 @@ Google place IDs for newer places do NOT encode an accurate location: many NYC p
 The same problem likely affects other cities; offer to run the same fix there.
 
 ## Remaining steps
-1. Run `relocate.py` -> `relocate.json`.
+1. ~~Run `relocate.py`~~ Done: `relocate.json` has 125 of 228 unmatched places relocated (101 by OSM name, 24 by review address; 117 had moved more than 1 km).
 2. Build `data/info/new-york.json` keyed by place id: merge `facts.json` + relocation (lat/lng, area from the hit's address) + `sum*.json` (summary, overrides, sources = review/wiki/fetched/site URLs minus `drop`, plus `add`). Skip facts when `nofacts`. Areas: prefer relocation/OSM address; only fall back to the decoded-pin reverse geocode if nothing better.
 3. Write `data/info/index.json` = `{"New York": "new-york.json"}`.
 4. Test in a browser (About card, popup summary, corrected pins), then merge into `main` and push. Remove `tools/nyc-build` from `main` or keep it out of the deploy (it's harmless but not needed).
