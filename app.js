@@ -2,7 +2,7 @@
 (function () {
   "use strict";
   var t = I18N.t;
-  var DATA = { places: [], updated: "" }, BYID = {}, ICONS = {}, PICKS = {};
+  var DATA = { places: [], updated: "" }, BYID = {}, ICONS = {}, PICKS = {}, INFO = {}, INFO_FILES = {}, INFO_LOADED = {}, LISTS = {};
   var $ = function (id) { return document.getElementById(id); };
   var WORLD = "world";
   var view = { city: null, cats: [], picks: false, q: "", sel: null, sort: "list", inView: false };
@@ -201,6 +201,8 @@
   }
   function popupHtml(p) {
     return '<div class="pop"><span class="k">' + iconFor(p.category) + " " + esc(I18N.cat(p.category || "")) + (isPick(p) ? ' · <span class="star">★ ' + esc(t("topPick")) + "</span>" : "") + "</span><h4>" + esc(p.title) + "</h4>" +
+      (INFO[p.id] && INFO[p.id].area ? '<p class="pop-area">' + esc(INFO[p.id].area) + "</p>" : "") +
+      (INFO[p.id] && INFO[p.id].summary ? '<p class="pop-sum">' + esc(INFO[p.id].summary) + "</p>" : "") +
       (p.note ? "<p>" + esc(p.note) + "</p>" : "") +
       '<a class="maps" href="' + esc(mapsLink(p)) + '" target="_blank" rel="noopener">' + t("openGM") + "</a>" +
       '<div class="pop-actions">' + bagBtn(p.id) + shareBtn(p.id) + "</div></div>";
@@ -316,8 +318,47 @@
     });
     refresh();
   }
-  function refresh() { computeFiltered(); renderList(); updateMap(); }
+  function refresh() { computeFiltered(); renderList(); updateMap(); if (view.city !== WORLD) loadInfo(view.city); }
 
+  // ---------- Info cards ----------
+  function hostOf(u) { try { return new URL(u).hostname.replace(/^www\./, ""); } catch (e) { return u; } }
+  function aboutHtml(p) {
+    var i = INFO[p.id], h = '<details class="about"' + (p.id === view.sel ? " open" : "") + "><summary>" + esc(t("about")) + "</summary>";
+    if (i.summary) h += '<p class="about-sum">' + esc(i.summary) + "</p>";
+    h += '<dl class="facts">';
+    if (i.area || i.address) h += "<dt>" + esc(t("where")) + "</dt><dd>" + esc([i.address, i.area].filter(Boolean).join(" · ")) + "</dd>";
+    if (i.kind) h += "<dt>" + esc(t("kind")) + "</dt><dd>" + esc(i.kind) + "</dd>";
+    if (i.hours) h += "<dt>" + esc(t("hours")) + '</dt><dd><span class="mono">' + esc(i.hours) + '</span><span class="fine">' + esc(t("hoursNote")) + "</span></dd>";
+    if (i.website) h += "<dt>" + esc(t("website")) + '</dt><dd><a class="maps" href="' + esc(i.website) + '" target="_blank" rel="noopener">' + esc(hostOf(i.website)) + " ↗</a></dd>";
+    h += "</dl>";
+    if (i.sources && i.sources.length) h += '<p class="fine">' + esc(t("sources")) + " " + i.sources.map(function (s) {
+      return '<a href="' + esc(s.url) + '" target="_blank" rel="noopener">' + esc(s.name || hostOf(s.url)) + "</a>";
+    }).join(", ") + "</p>";
+    return h + "</details>";
+  }
+  function loadInfo(city) {
+    var f = INFO_FILES[city];
+    if (!f || INFO_LOADED[city]) return;
+    INFO_LOADED[city] = true;
+    getJSON("data/info/" + f, {}).then(function (d) {
+      Object.keys(d).forEach(function (id) {
+        INFO[id] = d[id];
+        var p = BYID[id];
+        // OpenStreetMap's position for the venue is more exact than the one decoded from Google's id.
+        if (p && typeof d[id].lat === "number" && typeof d[id].lng === "number") { p.lat = d[id].lat; p.lng = d[id].lng; }
+      });
+      if ($("bag").hidden && (view.city === city || view.city === WORLD)) refresh();
+    });
+  }
+  // ---------- Follow whole lists in Google Maps ----------
+  function followHtml(scope) {
+    var cats = view.cats.length ? view.cats : sortedKeys(countBy(scope, function (p) { return p.category || ""; }));
+    var have = cats.filter(function (c) { return LISTS[c]; });
+    if (!have.length) return "";
+    return '<div class="follow"><span class="follow-label">' + esc(t("followTitle")) + '</span><div class="follow-links">' + have.map(function (c) {
+      return '<a class="chip follow-chip" href="' + esc(LISTS[c]) + '" target="_blank" rel="noopener"><span class="emo" aria-hidden="true">' + iconFor(c) + "</span>" + esc(I18N.cat(c)) + " ↗</a>";
+    }).join("") + '</div><span class="fine">' + esc(t("followHelp")) + "</span></div>";
+  }
   function cardHtml(p, withCity) {
     var pin = hasPin(p);
     var h = '<article class="place' + (p.id === view.sel ? " on" : "") + '" data-card="' + esc(p.id) + '"><div class="place-head"><h3>' +
@@ -327,6 +368,7 @@
     if (withCity) h += '<span class="nopin">' + esc(cityName(cityKey(p))) + "</span>";
     if (p.note) h += "<p>" + esc(p.note) + "</p>";
     if (!pin) h += '<span class="nopin">' + esc(t("noPin")) + "</span>";
+    if (INFO[p.id]) h += aboutHtml(p);
     h += '<div class="place-foot"><div class="foot-actions">' + bagBtn(p.id) + shareBtn(p.id) + '</div><a class="maps" href="' + esc(mapsLink(p)) + '" target="_blank" rel="noopener">' + t("openGM") + "</a></div></article>";
     return h;
   }
@@ -368,6 +410,7 @@
         }).join("") + "</select></label>";
     }
     l += "</div>";
+    if (!world) l += followHtml(DATA.places.filter(function (p) { return cityKey(p) === view.city; }));
     if (shown.length) {
       l += '<div class="list">' + shown.map(function (p) { return cardHtml(p, world); }).join("") + "</div>";
     } else {
@@ -596,9 +639,11 @@
   Promise.all([
     fetch("data/places.json", { cache: "no-cache" }).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }),
     getJSON("data/icons.json", {}),
-    getJSON("data/picks.json", { picks: [] })
+    getJSON("data/picks.json", { picks: [] }),
+    getJSON("data/info/index.json", {}),
+    getJSON("data/lists.json", { lists: {} })
   ]).then(function (res) {
-    DATA = res[0]; ICONS = res[1] || {};
+    DATA = res[0]; ICONS = res[1] || {}; INFO_FILES = res[3] || {}; LISTS = (res[4] && res[4].lists) || {};
     DATA.places.forEach(function (p) { BYID[p.id] = p; });
     // Top picks can be listed by id, by exact name, or as "Name | City".
     var want = {};

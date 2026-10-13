@@ -41,7 +41,10 @@
       loading: "Loading places…", loadFail: "The places couldn't load. Refresh the page to try again.",
       mapOff: "The map couldn't load right now. Every place still has its Google Maps link.",
       noWebGL: "This browser can't draw the map. Every place still has its Google Maps link.",
-      other: "Other places", updatedFmt: "en-US"
+      other: "Other places", updatedFmt: "en-US",
+      about: "About this place", where: "Where", kind: "Type", hours: "Hours", website: "Website", sources: "Sources:",
+      hoursNote: "From OpenStreetMap. Check before you go.",
+      followTitle: "Save whole lists to your Google Maps", followHelp: "Opens the list in Google Maps. Tap Follow to add it to your Saved places."
     },
     ko: {
       eyebrow: "저장한 장소 {p}곳 · 도시 {c}곳",
@@ -82,7 +85,10 @@
       loading: "장소를 불러오는 중…", loadFail: "장소를 불러오지 못했어요. 새로고침해 주세요.",
       mapOff: "지금은 지도를 불러올 수 없어요. 모든 장소에 구글 지도 링크가 있어요.",
       noWebGL: "이 브라우저에서는 지도를 그릴 수 없어요. 모든 장소에 구글 지도 링크가 있어요.",
-      other: "기타 장소", updatedFmt: "ko-KR"
+      other: "기타 장소", updatedFmt: "ko-KR",
+      about: "장소 정보", where: "위치", kind: "종류", hours: "영업시간", website: "웹사이트", sources: "출처:",
+      hoursNote: "OpenStreetMap 정보예요. 방문 전에 확인하세요.",
+      followTitle: "목록 전체를 내 구글 지도에 저장", followHelp: "구글 지도에서 목록이 열려요. ‘팔로우’를 누르면 저장됨에 추가돼요."
     }
   };
   var CAT_KO = {

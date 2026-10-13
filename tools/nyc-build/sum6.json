@@ -1,0 +1,135 @@
+{
+"p9qbqxb": {
+"s": "Elevated park on an old freight rail line, running from the Meatpacking District to Hudson Yards."
+},
+"p1xjr89d": {
+"s": "Greenwich Village's lively park with the famous arch and fountain, buskers, chess players and NYU students."
+},
+"pjy3yzi": {
+"s": "Long-running Village poster and framing shop with hundreds of frame styles and a big stock of art prints."
+},
+"puciuul": {
+"s": "Bi-level art supply store packed with materials for every kind of project."
+},
+"p1s3s089": {
+"s": "Hollywood luxury brand known for silver jewelry, leather and gothic-cross motifs. Its New York flagship is a black, silver and leather playground."
+},
+"p1nuijso": {
+"s": "MoMA's stand-alone design shop across from the museum, with contemporary furniture, sculptural vases and design-minded gifts."
+},
+"p1oe7u94": {
+"s": "MoMA's SoHo design shop on Spring Street, recently reopened with a redesign by Peterson Rich Office and a mural by Nina Chanel Abney."
+},
+"p1f8pzgp": {
+"s": "Tribeca gallery with one of the largest collections of vintage posters in the world, from French travel ads to food and drink graphics."
+},
+"pj73r3y": {
+"s": "Downtown dealer of vintage and contemporary movie posters since 1995, with a huge archive of original film art."
+},
+"p1wu2vc8": {
+"s": "Ray-Ban's SoHo store on Wooster Street for sunglasses and frames."
+},
+"p17plyrv": {
+"s": "Small vintage shop beloved by collectors, especially for vintage lighters, run by Sammy Levin as a tribute to her grandfather."
+},
+"ppuy0cd": {
+"s": "Sprawling Williamsburg vintage emporium with soft '80s tees, flannels, Chucks in every color and deadstock finds."
+},
+"p14ffqnn": {
+"s": "SoHo branch of 2nd Street, the Japanese resale chain with more than 500 stores in Japan, selling secondhand and vintage designer clothing.",
+"nofacts": true
+},
+"p115o11y": {
+"s": "Pop-up vintage market in the East Village with a curated mix of retro clothing, accessories and home goods."
+},
+"pzy604k": {
+"s": "Greene Street store of Stockholm's Acne Studios, the fashion house known for denim, ready-to-wear and accessories."
+},
+"pupdufe": {
+"s": "Flagship of Aimé Leon Dore, the New York menswear brand founded in 2014, on Mulberry Street, with Café Leon Dore next door."
+},
+"pyar93n": {
+"s": "Arc'teryx's SoHo store on Spring Street for technical outdoor gear and outerwear."
+},
+"pzzradt": {
+"s": "Downtown menswear boutique known for its all-black, avant-garde designer edit. It is opening a new corner store at 181 MacDougal Street, near its two other locations."
+},
+"p1djniea": {
+"s": "First store of Angelo Baque's New York streetwear brand, on Orchard Street on the Lower East Side, built as a community hub."
+},
+"p1b9wdit": {
+"s": "SoHo store of A Bathing Ape, the Japanese streetwear brand Nigo founded in Harajuku in 1993."
+},
+"pqz51xr": {
+"s": "Birkenstock's SoHo store for the German sandal maker's full range.",
+"add": [
+{
+"name": "Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Birkenstock"
+}
+]
+},
+"p1c1y2xv": {
+"s": "First New York store from BRUT, the Paris archive of vintage French workwear, a celebrity favorite."
+},
+"pgj9goh": {
+"s": "Manhattan branch of the beloved buy-sell-trade vintage store, on West 13th Street."
+},
+"p1h3e21n": {
+"s": "SoHo store on Greene Street selling Japanese and American selvedge denim since 2006, run by real denim experts."
+},
+"p1b6torx": {
+"s": "Flagship of Brandy Melville, the Italian casual-clothing brand popular with laid-back LA style.",
+"drop": [
+"brandy-melville-closed"
+]
+},
+"p1dro80z": {
+"s": "Store from Buck Mason, the Venice, California menswear brand known for well-made tees and basics."
+},
+"p1h4q8dy": {
+"s": "Bond Street boutique in NoHo for artisanal clothing makers from around the world."
+},
+"p5gq5aa": {
+"s": "SoHo store of COS, H&M's minimalist, pricier sister brand."
+},
+"pd6mqwt": {
+"s": "Lower East Side clothing boutique."
+},
+"pqzwjob": {
+"s": "Midtown store of the British shirtmaker popular with the boardroom crowd, for well-cut shirts and suits."
+},
+"p3vnok8": {
+"s": "Menswear store with a big range of high-quality designers under one roof, including a renovated underground shop in the West Village."
+},
+"pncq6zw": {
+"s": "Rei Kawakubo's multi-brand fashion store, Comme des Garçons' \"beautiful chaos\" of designers spread over several floors near Murray Hill."
+},
+"pvcfs2e": {
+"s": "Dr. Martens' SoHo store on Spring Street for boots and shoes."
+},
+"pp5q20k": {
+"s": "Funky vintage shop on East 12th Street, a neighborhood staple for years."
+},
+"p1kevkuy": {
+"s": "Store from FRAME, the denim and ready-to-wear brand founded in 2012 by Erik Torstensson and Jens Grede."
+},
+"phmyc6": {
+"s": "East Village store from Fucking Awesome, the skate and streetwear brand from pro skaters Jason Dill and Anthony Van Engelen."
+},
+"p1bnwn93": {
+"s": "New York flagship of Fugazi, the streetwear shop founded by Trevor Gorji."
+},
+"p1bdfrtu": {
+"s": "SoHo store of Golden Goose, the Italian brand famous for distressed sneakers.",
+"add": [
+{
+"name": "Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Golden_Goose_(company)"
+}
+]
+},
+"p1q6tka2": {
+"nofacts": true
+}
+}
